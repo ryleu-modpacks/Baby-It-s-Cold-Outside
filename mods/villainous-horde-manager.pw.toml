@@ -1,0 +1,13 @@
+name = "Villainous Horde Manager"
+filename = "VillainousHordeManager-forge-1.20.1-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXwCfB4o/versions/4K3R6wkp/VillainousHordeManager-forge-1.20.1-0.4.1.jar"
+hash-format = "sha512"
+hash = "9179b76d666f6d95a92a7635b9532b923b4235f58a9d0dd24549319dc0257b9be14a3e12e053724065c95ddc1c1be3048e4d0f6beedd27a0f36ea86746db1d57"
+
+[update]
+[update.modrinth]
+mod-id = "pXwCfB4o"
+version = "4K3R6wkp"

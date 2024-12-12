@@ -1,0 +1,13 @@
+filename = 'SpiderMoon-1.20-1.0.1.jar'
+name = 'Spider Moon'
+side = 'both'
+
+[download]
+hash = '386ad96c0970499df29b1b41cf456e92bbd7dd4b04e8d46582ff9306b2c320116e789e5c7128d6e38c8199008d6948007f89709daaff5f9a4bb041132664a41a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jruQ9YSp/versions/7N7b1NsP/SpiderMoon-1.20-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'jruQ9YSp'
+version = '7N7b1NsP'

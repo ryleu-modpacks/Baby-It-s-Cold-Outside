@@ -1,0 +1,13 @@
+filename = 'ColdSnapHorde-forge-1.20.1-1.8.3.2-patch.jar'
+name = 'Cold Snap Horde'
+side = 'both'
+
+[download]
+hash = 'f6dc728918d87cabef6d3a3f02e84463535160e4e91cd99c2ecfe0f42f1ce63ff5b3d07268ebc1af4db7f1602ef0ee94580a8b6f6d9ecedf4b360995a79ea99e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1YFASN0I/versions/6iq1eLtM/ColdSnapHorde-forge-1.20.1-1.8.3.2-patch.jar'
+
+[update.modrinth]
+mod-id = '1YFASN0I'
+version = '6iq1eLtM'

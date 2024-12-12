@@ -1,0 +1,13 @@
+filename = 'HuntersMoon-1.20-1.0.1.jar'
+name = "Hunter's Moon"
+side = 'both'
+
+[download]
+hash = '5998848643b2e5169d8301abb6e7433aaf01a5fcd6d41004b0dc067d4ed5a33851c2ca2373932b63c7ed2da62bff89367d68a333919dae17a19659e95afc1ca2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5cus6iho/versions/YCEhqeFG/HuntersMoon-1.20-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '5cus6iho'
+version = 'YCEhqeFG'

@@ -1,0 +1,13 @@
+filename = 'throwable_bricks-1.0.2-forge-1.20.1.jar'
+name = 'Throwable Bricks'
+side = 'both'
+
+[download]
+hash = '75928a4948cc339853f43d5ff38b1a64fc1054573781e28965e9f470c797a13b2a19786a96c45d49eb60f24bbd16ac7e906d5ca842b132691219249079a924b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/66Jq42Sb/versions/ZOVr6kPj/throwable_bricks-1.0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '66Jq42Sb'
+version = 'ZOVr6kPj'

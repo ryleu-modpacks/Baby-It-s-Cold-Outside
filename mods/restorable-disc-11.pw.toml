@@ -1,0 +1,13 @@
+filename = 'repaired_disc_eleven-1.0.0.jar'
+name = 'Restorable Disc 11'
+side = 'both'
+
+[download]
+hash = '2733eeab8a99994423efd5dc3938b3141f0921f516aeb36c228dd1ee18179c8eb4356de545720e5c32e4fb0927cb6b4b1d9c81479adc891c3618c5f8b5774a18'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K0aSHiaT/versions/FZnan83J/repaired_disc_eleven-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'K0aSHiaT'
+version = 'FZnan83J'

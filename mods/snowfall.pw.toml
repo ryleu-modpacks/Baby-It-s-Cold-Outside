@@ -1,0 +1,13 @@
+filename = 'snowfall-1.0.0.jar'
+name = 'Snowfall'
+side = 'both'
+
+[download]
+hash = 'bd74a88f45344fea41518efc4aebd585bc72b896cc9ed7deff2ce4bad6b7b7d58ae12d548b6d73c387b9f9fab55d2f6b6423400257e12bc11ea9a2d85ae2454f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hN4P46yA/versions/MFB5rh69/snowfall-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'hN4P46yA'
+version = 'MFB5rh69'

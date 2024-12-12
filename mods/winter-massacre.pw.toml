@@ -1,0 +1,12 @@
+filename = 'winter_massacre-1.3.2.jar'
+name = 'Winter Massacre'
+side = 'both'
+
+[download]
+hash = '39bacc64acfef32b8f5811ef06520d18b3be6592'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 5517282
+project-id = 846941

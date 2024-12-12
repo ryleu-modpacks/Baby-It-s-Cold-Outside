@@ -1,0 +1,13 @@
+filename = 'ToughAsNails-1.20.1-9.0.0.96.jar'
+name = 'Tough As Nails'
+side = 'both'
+
+[download]
+hash = '082151567439b4a5935ab8ae86a448a595d020cb69ee1369ce7e451c4a7a32ae44b21a3c2430808c79cdd90e2e35839689d9cdae6958c627ce091115a3fb6991'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ge1sOdFH/versions/40SuKdWl/ToughAsNails-1.20.1-9.0.0.96.jar'
+
+[update.modrinth]
+mod-id = 'ge1sOdFH'
+version = '40SuKdWl'

@@ -1,0 +1,13 @@
+filename = 'hares_moon-1.20.jar'
+name = "Hare's Moon"
+side = 'both'
+
+[download]
+hash = '0174092a9e4d5126aafd7fad0e47967212bdfec65acbd0259b2977df31464f2e4b73246ec41646eb4ea13e29bbfd473f22cb15cde8b78776631c503dc67a0e87'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Js084tP/versions/AZhLS7NI/hares_moon-1.20.jar'
+
+[update.modrinth]
+mod-id = '4Js084tP'
+version = 'AZhLS7NI'

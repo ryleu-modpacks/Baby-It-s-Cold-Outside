@@ -1,0 +1,12 @@
+filename = 'alltheflinttools-1.20.1-[Forge].jar'
+name = 'All the flint tools'
+side = 'both'
+
+[download]
+hash = 'd8d0419cca0c6629a24cea330e54cb02a9621f21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 4962252
+project-id = 950998

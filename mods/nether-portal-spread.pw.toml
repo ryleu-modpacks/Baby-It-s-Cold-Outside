@@ -1,0 +1,13 @@
+filename = 'netherportalspread-1.20.1-8.3.jar'
+name = 'Nether Portal Spread'
+side = 'both'
+
+[download]
+hash = 'e751e7d72988b4dbd9e2bd4098029bcb3e7e7687c44bfe008654e16a164c30316dc6c367888ddf5d00cd7ecc80fc59bf04846228b2cbc5d04191905e83bb9ed5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z7UX4SHt/versions/OiSu3g6G/netherportalspread-1.20.1-8.3.jar'
+
+[update.modrinth]
+mod-id = 'z7UX4SHt'
+version = 'OiSu3g6G'

@@ -1,0 +1,13 @@
+filename = 'dorsal_moon-1.20.jar'
+name = 'Dorsal Moon'
+side = 'both'
+
+[download]
+hash = '10b75789d1aee1dcc9dd20b202b0693f635cda70abf5f7579d8ecca40c909f8332030bbcc8419d1afb76059149a97ca288796be4ac86af86875520d41142f0c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DDG7GwFq/versions/dE8rlUSM/dorsal_moon-1.20.jar'
+
+[update.modrinth]
+mod-id = 'DDG7GwFq'
+version = 'dE8rlUSM'

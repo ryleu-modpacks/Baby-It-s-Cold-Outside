@@ -1,0 +1,13 @@
+filename = 'FromAnotherLibrary-forge-1.20.1-1.0.2.jar'
+name = 'FromAnotherLibrary'
+side = 'both'
+
+[download]
+hash = '147d3576061bd1ee0f4a8698d241b6d6fce39293f253246e0b7c6386bd454a9aca2416c074554d0c86c90755dcbf78bd12d87e45a280ce42f4b40f1df9ba1970'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eQ1Vl5eh/versions/YrqobdoQ/FromAnotherLibrary-forge-1.20.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'eQ1Vl5eh'
+version = 'YrqobdoQ'

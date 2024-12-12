@@ -1,0 +1,13 @@
+filename = 'sit_everywhere-1.20.1-forge-1.1.0.jar'
+name = 'Sit Everywhere'
+side = 'both'
+
+[download]
+hash = 'ccf65a84370c72517cdfa4ad50a2103cd10a8a3f1b1afd6792ce0fb5840a7bec89f8358bf0f38fa6831d24d9afa8a8025b70e457c84a569f9d8aa8e229b92a42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tBxIIwrn/versions/ZawZnSpz/sit_everywhere-1.20.1-forge-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'tBxIIwrn'
+version = 'ZawZnSpz'

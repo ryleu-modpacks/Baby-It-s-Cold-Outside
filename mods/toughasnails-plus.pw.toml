@@ -1,0 +1,13 @@
+filename = 'tan_plus-1.2.1-forge-1.20.1.jar'
+name = 'Tough As Nails +'
+side = 'both'
+
+[download]
+hash = 'cc447567619fd1739594aaf1fb8d1574a0ff29bd5ca65cfe68fa30dda4d489da7a6ed39bc38a2b40b5d06400eec609fe1738a63f79973f3449e26f5658950599'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PoRg5NGp/versions/UlfwNW5a/tan_plus-1.2.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PoRg5NGp'
+version = 'UlfwNW5a'

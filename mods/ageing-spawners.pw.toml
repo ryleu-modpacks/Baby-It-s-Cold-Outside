@@ -1,0 +1,13 @@
+filename = 'AgeingSpawners-1.20.1-2.0.0.jar'
+name = 'Ageing Spawners'
+side = 'both'
+
+[download]
+hash = 'ad36fe8c1fa4fc7d50c79103f86209ac40998a41d035da3bb68c2315b3344885153f58c1620d6c341aeea7460163567aa17df9910ff69148e1c0705ffbf8aaad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/npA68nxC/versions/jwJHYBHJ/AgeingSpawners-1.20.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'npA68nxC'
+version = 'jwJHYBHJ'

@@ -1,0 +1,13 @@
+filename = 'acd_nether-1.6.1.jar'
+name = 'A Cold Day In The Nether'
+side = 'both'
+
+[download]
+hash = 'f46f553bdae5752c6c68d0279048c5f2f20ed8b6c44dff772c152767a483763b8bd30a11b5875ac55a386b13c6ca5209f63dfdee4abf0183a6fa93fbbbb2e3ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SbyjeKLK/versions/991vgWDN/acd_nether-1.6.1.jar'
+
+[update.modrinth]
+mod-id = 'SbyjeKLK'
+version = '991vgWDN'

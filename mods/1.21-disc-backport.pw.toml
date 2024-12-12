@@ -1,0 +1,13 @@
+filename = 'discbackport-1.0.0-forge-1.20.1.jar'
+name = '1.21 disc backport'
+side = 'both'
+
+[download]
+hash = '0273cd4f171ffdaf7a6fea4b3181cddfdbdfb3a8433cd229cac6cc5b72c38607fab9295fb023d3e6967afdabc5eb3e8b381765d8631fa8dd6f17ac9a209118e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vJyu5H4d/versions/9WDJTuPv/discbackport-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'vJyu5H4d'
+version = '9WDJTuPv'

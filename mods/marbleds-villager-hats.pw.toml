@@ -1,0 +1,13 @@
+filename = 'marbledsvillagerhats-1.20.1-2.0.1.jar'
+name = "Marbled's Villager Hats [MVH]"
+side = 'both'
+
+[download]
+hash = 'bf67861927e079ff5a037a75bbd7c1b7414dbcdf7612834386d9aaddb4f04528a25e1f655bfeba03fe12c5cb1bd70c04669a7aba2a3e7b4ef10016ef2a217733'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MHBEAlCR/versions/KgK7Fkbo/marbledsvillagerhats-1.20.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'MHBEAlCR'
+version = 'KgK7Fkbo'

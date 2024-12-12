@@ -1,0 +1,13 @@
+filename = 'stairsbutchairs-1.0.0-forge-1.20.1.jar'
+name = 'Stairs But Chairs'
+side = 'both'
+
+[download]
+hash = 'e04f9bce8eb18fdf94c4c5320d2733d65f206822645b86ccaa86fbe8bcd661019808268ab3410b15062b8703aadf512b844056a959ada487e64095f187eb4238'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OTJ5ZVPt/versions/GQUNkwiJ/stairsbutchairs-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'OTJ5ZVPt'
+version = 'GQUNkwiJ'

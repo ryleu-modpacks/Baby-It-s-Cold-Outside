@@ -1,0 +1,12 @@
+filename = 'Thalassophobia-forge-1.20.1-1.0.jar'
+name = 'Thalassophobia'
+side = 'both'
+
+[download]
+hash = '925db998711ea67a527beb9f583b186e8a4ddc4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 5834023
+project-id = 1126335
