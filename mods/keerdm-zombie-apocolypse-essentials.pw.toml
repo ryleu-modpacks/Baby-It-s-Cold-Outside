@@ -1,0 +1,13 @@
+name = "Keerdm Zombie Apocolypse  Essentials"
+filename = "Keerdm Zombie Apocalypse Essentials (TACZ) 1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3fQsJ7YN/versions/rL9Eu5oo/Keerdm%20Zombie%20Apocalypse%20Essentials%20%28TACZ%29%201.4.jar"
+hash-format = "sha512"
+hash = "0e5f22b3d6c017ea3309dc9c54c793ac1e0f1003b86d2d944bac962bf3cc08f6fbfe8d8fb775f03642a626dc219ab878c72df30cba2b9042f2fdb97552c3e331"
+
+[update]
+[update.modrinth]
+mod-id = "3fQsJ7YN"
+version = "rL9Eu5oo"

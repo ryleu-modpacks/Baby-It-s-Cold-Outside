@@ -426,6 +426,11 @@ hash = "2a85f26773724af759b4ce528c19250b8369c261a187e5d22a2c4554dc79536b"
 metafile = true
 
 [[files]]
+file = "mods/keerdm-zombie-apocolypse-essentials.pw.toml"
+hash = "f6acc0522ff511cc90bbc2cc89386071462b701ca706977aec9ff89475d98ebf"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0a234fcfdc3ba6e8d7ccd1f1e0fa85c9137312c0307b0cd094c236a001d3fab4"
 metafile = true
