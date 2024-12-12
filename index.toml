@@ -56,6 +56,11 @@ hash = "30dc3bb155174e408366f770235018a7b58c6b941098eff0914f925a1459098b"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "6b425dab96068593f876377e439caf9c7f91e49336db0d3646b2da111331adba"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "36553a432e9753d9d0d1dc180a13aedff5e5f2f327e0f10561bd79a1c309c392"
 metafile = true
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "799465911227f7602091093b83bdbe10a24996a1b37f08fe2725e85ce3e39f35"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "7ed1400a20b6b815a79adb53d2ce333903764b8208cc69de7b72c2353502a761"
 metafile = true
 
 [[files]]
@@ -692,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/stairs-but-chairs.pw.toml"
 hash = "54a37f4cf84d04b37fbfdb2d0f9c970eacb350bd4a40cb9463642e8bb1358334"
+metafile = true
+
+[[files]]
+file = "mods/stamina-for-tweakers.pw.toml"
+hash = "84255f0a2017545bfdc90fd5ed990ace86f01b9a5cc621e22a34e12074383e4b"
 metafile = true
 
 [[files]]
