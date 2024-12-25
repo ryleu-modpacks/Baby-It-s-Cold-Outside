@@ -1,6 +1,6 @@
 name = "Keerdm Zombie Apocolypse  Essentials"
 filename = "Keerdm Zombie Apocalypse Essentials (TACZ) 1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3fQsJ7YN/versions/rL9Eu5oo/Keerdm%20Zombie%20Apocalypse%20Essentials%20%28TACZ%29%201.4.jar"
