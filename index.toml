@@ -1,12 +1,112 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ageingspawners-common.toml"
+hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
+
+[[files]]
+file = "config/cavedust.toml"
+hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
+
+[[files]]
+file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
+hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
+
+[[files]]
+file = "config/enhancedai/Mobs/Flee/custom_flee.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/enhancedai/Mobs/Targeting/custom_hostile.json"
+hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
+
+[[files]]
+file = "config/enhancedai/common.toml"
+hash = "7d1736ee96694fb2b3431068dd7ca0e568a28e14bb545ca23b35c05d8629c5aa"
+
+[[files]]
+file = "config/fog/config.json"
+hash = "32ac62c5ac949a5cb91a0b89e2ef77922115f6fd32565b0f10539355d099b6fd"
+
+[[files]]
+file = "config/fromanotherworld/assimilated_sculk.json"
+hash = "6706915cb88b987f246914756f8afad6c4479c289651ff680edd5e5d0c821fdd"
+
+[[files]]
+file = "config/fromanotherworld/difficulty.json"
+hash = "5f5361d22132439ddc123a9e4dd1a8ef2df5a7d0580a4634137ff0f931a7cb98"
+
+[[files]]
+file = "config/fromanotherworld/effects.json"
+hash = "835b2ec9d7b080081c6961fc950e53daf2700ec2a792eade349854d64bea45c0"
+
+[[files]]
+file = "config/fromanotherworld/events.json"
+hash = "5d680ed125f3859bd936a1e06603bad05214166c7128a4f5c1d70bdec086238e"
+
+[[files]]
+file = "config/fromanotherworld/gore.json"
+hash = "1e7ed8b8dae85e8e546efcaabdc571a71fa229fa00a2232d54725ce04bf1a260"
+
+[[files]]
+file = "config/fromanotherworld/mod_compat.json"
+hash = "4c8abb10091fe8144db956354569c86e059a90fe7021e6b2ade40119faac1707"
+
+[[files]]
+file = "config/fromanotherworld/spawning.json"
+hash = "1d176bbb0924a08995e136cec7b1ce8a28c84c68ea43c797e706487b63f1989d"
+
+[[files]]
+file = "config/fromanotherworld/world.json"
+hash = "b60ba2f6025b9b88df58d7e2b5dd085aebbd9b9dcba19f77641475043af9cb21"
+
+[[files]]
+file = "config/giantspawn.json5"
+hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
+
+[[files]]
+file = "config/goldenagecombat-server.toml"
+hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "ceabe040567af975d19a8e9e656ca92bbd5e878c95e03965236635f466499483"
+
+[[files]]
+file = "config/naturallychargedcreepers.json5"
+hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
+
+[[files]]
+file = "config/restrictedportals-common.toml"
+hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
+
+[[files]]
+file = "config/soul_fire_d-common.toml"
+hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
+
+[[files]]
+file = "config/torch_hit-common.toml"
+hash = "2b85131f474c54ccf44c354237a34deff0ea8b707bbdcfca4be97b5f54708fba"
+
+[[files]]
+file = "global_packs/required_data/cold/data/consistency_plus/recipes/copper_nugget.json"
+hash = "dde43723522cf0b4c1bafaeca9082960ed1f9fe0a8e17378c2bd613e3edb8743"
+
+[[files]]
+file = "global_packs/required_data/cold/data/create/recipes/copper_nugget.json"
+hash = "0057ef49123ed42e70de99b491c8882cc715c4185b56d8c342cfd3f484d5ab1f"
+
+[[files]]
 file = "global_packs/required_data/cold/data/fromAnotherWorld/recipes/flamethrower_mk_1.json"
 hash = "e1e07d481929e50d835dd0e60eb7c02108cdd2d523947b5c85635df2dfedc563"
 
 [[files]]
 file = "global_packs/required_data/cold/data/graves/recipes/obituary.json"
 hash = "4322854adec28aa3a66888475c3f8b2cee1a8e3ee3b7b5ea611bb47aca3e047d"
+
+[[files]]
+file = "global_packs/required_data/cold/data/progression_reborn/recipes/copper_nugget.json"
+hash = "50589df8cd4d8e669e7c4099cc1115cc1bf757559557cee68e01a0e01b72a889"
 
 [[files]]
 file = "global_packs/required_data/cold/data/radios/recipes/antenna.json"
