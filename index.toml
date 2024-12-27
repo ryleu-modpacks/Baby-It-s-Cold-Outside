@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ageingspawners-common.toml"
-hash = "71b4e2a24095928c170a79351d3c475de5b926e1989bcf0d682e1b6e86a1cbb4"
+hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "102d7f88c14e2a7d24fd2a9c58dc0c9656da253a196bdb4455bfa1b064010811"
+hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
 
 [[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
@@ -22,7 +22,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "f129c6f5899407d33e87d5a4852f1d2674ad0e0191effdd1ae7261065dc2dec8"
+hash = "7d1736ee96694fb2b3431068dd7ca0e568a28e14bb545ca23b35c05d8629c5aa"
 
 [[files]]
 file = "config/fog/config.json"
@@ -66,7 +66,7 @@ hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5eb3f3dc6b2ffdb448bd653ca0ad6d243bbb1336947e9825a06a84c73ce6bdbc"
+hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -78,91 +78,95 @@ hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "b20402e6d88c7071012c0af587fa97da16058240c9520198d2ed4cb2e9ce3351"
+hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
+hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
 
 [[files]]
 file = "config/torch_hit-common.toml"
-hash = "fbfc329b89a4a39db7cbe4d198ec95ea42533548263368dc3330a5739ee0e9e6"
+hash = "2b85131f474c54ccf44c354237a34deff0ea8b707bbdcfca4be97b5f54708fba"
 
 [[files]]
-file = "global_packs/required_data/cold/data/consistency_plus/recipes/copper_nugget.json"
+file = "kubejs/data/consistency_plus/recipes/copper_nugget.json"
 hash = "dde43723522cf0b4c1bafaeca9082960ed1f9fe0a8e17378c2bd613e3edb8743"
 
 [[files]]
-file = "global_packs/required_data/cold/data/create/recipes/copper_nugget.json"
+file = "kubejs/data/create/recipes/copper_nugget.json"
 hash = "0057ef49123ed42e70de99b491c8882cc715c4185b56d8c342cfd3f484d5ab1f"
 
 [[files]]
-file = "global_packs/required_data/cold/data/fromAnotherWorld/recipes/flamethrower_mk_1.json"
+file = "kubejs/data/fromAnotherWorld/recipes/flamethrower_mk_1.json"
 hash = "e1e07d481929e50d835dd0e60eb7c02108cdd2d523947b5c85635df2dfedc563"
 
 [[files]]
-file = "global_packs/required_data/cold/data/graves/recipes/obituary.json"
+file = "kubejs/data/graves/recipes/obituary.json"
 hash = "4322854adec28aa3a66888475c3f8b2cee1a8e3ee3b7b5ea611bb47aca3e047d"
 
 [[files]]
-file = "global_packs/required_data/cold/data/progression_reborn/recipes/copper_nugget.json"
+file = "kubejs/data/progression_reborn/recipes/copper_nugget.json"
 hash = "50589df8cd4d8e669e7c4099cc1115cc1bf757559557cee68e01a0e01b72a889"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/antenna.json"
-hash = "5289b1644a66862eaf0a3e30816e27093e20d425172b8d1e307b03b2ea337883"
+file = "kubejs/data/radios/recipes/antenna.json"
+hash = "db95361674c6f6befc84693d759874d850977c3d917569ebaeef685afc1ba016"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/antenna_deploying.json"
+file = "kubejs/data/radios/recipes/antenna_deploying.json"
 hash = "78cfc526ec8ac94cd3d797fd8d1163d842b8318c69a85db4464a3f1d635d3dfb"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/listener_module.json"
+file = "kubejs/data/radios/recipes/listener_module.json"
 hash = "8dd80e6b9f0f5dd24acf4d6286513a816d6b8ea783144a6b2c66d6b37aca0014"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/microphone.json"
+file = "kubejs/data/radios/recipes/microphone.json"
 hash = "b04f543d598ca8ffff78b42f3fee26e8dab1f0ba88215b964ecc4c990593ebfe"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/radio.json"
+file = "kubejs/data/radios/recipes/radio.json"
 hash = "2b8928dc139a6da31cb1b2f247cae574e82c1bec08362fcc7efc4dd108b30cdc"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/radiosmither.json"
+file = "kubejs/data/radios/recipes/radiosmither.json"
 hash = "d26583a7b3a7601b4adf6dd703b4901a8694a00d0a98a412876830a97a2a5d35"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/receiving_module.json"
+file = "kubejs/data/radios/recipes/receiving_module.json"
 hash = "5a903e3eb9774736130d3b83b1c92ca2f2a30b073190233b3e6be53fb4721e3a"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/speaker.json"
+file = "kubejs/data/radios/recipes/speaker.json"
 hash = "69b3629fe84c87d0f8121812d4ea0c50f85d545ff7ba9be192db3e48375dd3ab"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/speaker_module.json"
+file = "kubejs/data/radios/recipes/speaker_module.json"
 hash = "96ce2c9ab6993f88ea78f8352c08e5a6486ee23733d36490ee3c0e4923a98113"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/spuddie_talkie.json"
+file = "kubejs/data/radios/recipes/spuddie_talkie.json"
 hash = "54e089fcdfdc248fb107e9b998a14c3f155fc0607143ec286f330772e6d4fc2f"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/transceiver.json"
+file = "kubejs/data/radios/recipes/transceiver.json"
 hash = "054a0dcdeaedf228f1c0d9fdf124614e472bef077ffe76dd420379d7fa06761d"
 
 [[files]]
-file = "global_packs/required_data/cold/data/radios/recipes/transmitting_module.json"
+file = "kubejs/data/radios/recipes/transmitting_module.json"
 hash = "c24090e9a43f8c579f5a893730f8e97a8f375dc8be6004bd9fe37a3842eeb0af"
 
 [[files]]
-file = "global_packs/required_data/cold/data/repaired_disc_11/recipes/boom.json"
+file = "kubejs/data/repaired_disc_11/recipes/boom.json"
 hash = "e1e07d481929e50d835dd0e60eb7c02108cdd2d523947b5c85635df2dfedc563"
 
 [[files]]
-file = "global_packs/required_data/cold/data/repaired_disc_eleven/recipes/boom.json"
+file = "kubejs/data/repaired_disc_eleven/recipes/boom.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/recipe.js"
+hash = "2c141c587504c1a2a4631885950d25caa155430bbb1e7f38c09e03e4d1a750c5"
 
 [[files]]
 file = "mods/1.21-disc-backport.pw.toml"
