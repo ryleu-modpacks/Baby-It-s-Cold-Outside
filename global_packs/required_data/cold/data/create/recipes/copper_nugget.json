@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "consistency_plus:copper_nugget"
+        }
+    ],
+    "result": {
+        "item": "create:copper_nugget"
+    }
+}
