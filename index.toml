@@ -354,11 +354,6 @@ hash = "a7d36f7161b85679c485fa22d86270647d3bd2bafdad79eea3141579a9db295c"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "31a7be27efae946bfca3fa971575913a55fa9613ffec83c97d2b586bf1aab135"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "ca55b06de5b9e1981bfc3c3a6ce7fcce3e508957da027712e6dce17bb9f1b1e3"
 metafile = true
@@ -521,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "9d498623f4affc9418ff70119eb28cec1862e5bc591643bd24d819b99dd033d1"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "cb53e279461bd09afab89333ec38c2addf21b38d6b51a46d5794402f3ea0191f"
 metafile = true
 
 [[files]]
