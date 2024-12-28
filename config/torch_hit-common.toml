@@ -1,13 +1,13 @@
 # Fire damage duration for direct (main hand) hits.
 #Range: 1 ~ 8
-"direct hit duration" = 5
+"direct hit duration" = 7
 # Fire damage duration for indirect (offhand + tool) hits.
 #Range: 1 ~ 8
-"indirect hit duration" = 2
+"indirect hit duration" = 1
 # List of tools that allow for an indirect hit when a torch is being held in the offhand.
 # Leave empty to disable indirect hits.
 # Insert either item categories or specific item IDs.
-"indirect tools" = ["sword", "axe", "pickaxe", "shovel", "hoe"]
+"indirect tools" = []
 # How much Indirect Hits should damage wooden tools (in percentage).
 # 0 to disable.
 #Range: 0 ~ 100
@@ -20,7 +20,7 @@
 # If false, only the items specified by [extra torch items] and [extra soul torch items] will set targets on fire.
 "vanilla torches enabled" = true
 # Whether to allow candles to act as torches.
-"allow candles" = true
+"allow candles" = false
 # Whether candles should break upon use.
 #Effective only if [allowCandles] is enabled.
 "consume candle" = true
