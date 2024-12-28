@@ -9,6 +9,14 @@ file = "config/cavedust.toml"
 hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
 
 [[files]]
+file = "config/dynmus/generalConfig.json"
+hash = "b24b1a696055413e0c1093e85d78d6983a4a1e3ab169909328ba593815de2457"
+
+[[files]]
+file = "config/dynmus/musicSelector.json"
+hash = "a03a8010044942d0d00018c1a739f05f6d78225b8a9997ca6010a087be917b7f"
+
+[[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
 hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
 
@@ -81,6 +89,14 @@ file = "config/restrictedportals-common.toml"
 hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "2d2d244c696678957a2077b87a80fcd0132e3e4e39c44313248748e0758702a3"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "0dcc3203372924acccd054d999645a86f762cb2559366812c1e63121ac5a3ea8"
+
+[[files]]
 file = "config/soul_fire_d-common.toml"
 hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
 
@@ -91,6 +107,18 @@ hash = "42af1f9735cbea3b74ec09d1e71b33a95d0ea256043cecbc0e9ea3e80192653d"
 [[files]]
 file = "config/torch_hit-common.toml"
 hash = "03bfb8bbc155a7b36176d75a96451f8cdd7c1626cf660edfcd9762961c75f71b"
+
+[[files]]
+file = "config/toughasnails/client.toml"
+hash = "a64ae31d9094f721da8983d68b89ef46f0b69a863d45937d1c67a8490be9cf3a"
+
+[[files]]
+file = "config/toughasnails/temperature.toml"
+hash = "87a81721c7f07f2eed455d08d170557eb9bc8a8b40486f2d6939c09f6a8cb611"
+
+[[files]]
+file = "config/toughasnails/thirst.toml"
+hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
