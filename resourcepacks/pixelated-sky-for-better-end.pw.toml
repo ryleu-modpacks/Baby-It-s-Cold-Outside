@@ -1,6 +1,6 @@
 name = "Pixelated Sky for Better End"
 filename = "PixelatedSky_BetterEnd_1.0-1.20.1.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nadYBTPe/versions/lgqeiru5/PixelatedSky_BetterEnd_1.0-1.20.1.zip"

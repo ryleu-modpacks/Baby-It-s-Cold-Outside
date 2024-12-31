@@ -763,11 +763,6 @@ hash = "cd72c729471b76a249a9ee615c6be93bac6de902cbb55673817c40ff0e500b09"
 metafile = true
 
 [[files]]
-file = "mods/probejs.pw.toml"
-hash = "45a77ffb77391a06d89890ef025e21f75b9b431e931341ec6cb7d3a2921174f2"
-metafile = true
-
-[[files]]
 file = "mods/progression-reborn.pw.toml"
 hash = "18e27abbff15775cb61a7355d2039994ee2cddb075a4e4782798b2396ab48bbb"
 metafile = true
@@ -1054,12 +1049,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/biblicaltou.pw.toml"
-hash = "7c514481f7d9b7909f0684a331a239e568f833a0afbcb6ffd56c90e9df4b2e7d"
+hash = "201cc92f6a93cac958d1ff3897a58106b8dc0c33e2d5dcc2cfa5ecaa0eb3abd6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/createless.pw.toml"
-hash = "4dcb60b99adf90fb9c638f4ebc5ba489b7ddfb66814ae0e2a440b70a47bd0589"
+hash = "2a6b19e9aa2c3ca7f68fb9bb2ef73b91e8ef423fa3a196ca22145cfebd31371d"
 metafile = true
 
 [[files]]
@@ -1328,15 +1323,15 @@ hash = "4065c131a78e6b3400671d4b4d6d9d957bca4b78609373fdaee8449c159b5ea6"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
+hash = "dce009ef19ca0f1e0b0cae855cd5fccba613cd2073b40ec4e2d2e8234d8cd60f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/extended-illumina.pw.toml"
-hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
+hash = "4b9ad2dc1a7aa31067debf5b4bb8534e8ed2e38133b5bf989d5d164c38b17ca8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/pixelated-sky-for-better-end.pw.toml"
-hash = "0716db05f06c89f47e9446c1b42a2c8d581cf640da5ecec0b76fb72b84c462b4"
+hash = "c756af41f494baacb8114e0ed84089e30e6a17a258040031aa9d26559eec7332"
 metafile = true

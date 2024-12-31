@@ -1,6 +1,6 @@
 name = "Biblically Accurate Totem of Undying"
 filename = "BiblicalTOU_v1_1.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DAxiTPdW/versions/zNwzA8xl/BiblicalTOU_v1_1.zip"
