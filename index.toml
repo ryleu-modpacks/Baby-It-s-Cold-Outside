@@ -121,6 +121,10 @@ file = "config/toughasnails/thirst.toml"
 hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
+file = "defaultoptions/options.txt"
+hash = "86e7c09e84de9990edf1e09d47841b64e14e4f2afcebf739608beb19676931e3"
+
+[[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
 hash = "5f18b6d91e0f4d202f5ff23431dcbe5bcdee2a4752771916dd2eaf912fd17ec7"
 
