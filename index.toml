@@ -130,7 +130,7 @@ hash = "3dd797064fe59e2842871650caf702ccc44464d3f5ecc661e24bcd45807c4569"
 
 [[files]]
 file = "kubejs/data/graves/recipes/obituary.json"
-hash = "77f69746988bfc8021f6c91e2d32285394797aafdfa0aaf1b151900719517da5"
+hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
@@ -1050,4 +1050,293 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "5a9daabfcc776968cb753abb4bf2310c64848e2a321b5d6f89483fac5bf0511d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/biblicaltou.pw.toml"
+hash = "7c514481f7d9b7909f0684a331a239e568f833a0afbcb6ffd56c90e9df4b2e7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createless.pw.toml"
+hash = "4dcb60b99adf90fb9c638f4ebc5ba489b7ddfb66814ae0e2a440b70a47bd0589"
+metafile = true
+
+[[files]]
+file = "resourcepacks/crimtas_theme/ATTRIBUTION.txt"
+hash = "9573d06af8866b31028b484fdf0d1e8bd0d9cc19a711414bb3962955d4167151"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/block/beacon_star.png"
+hash = "9d650c486498ea4ad98a5ee6e56c451d2fe799f241f8afb14e9001fcc9665489"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/beacon_beam.png"
+hash = "8f3a951dfd797aa2295993afe2d25c362ac885618e10e616ceabec6c9f88d21e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee.png"
+hash = "1b9e2bbfc2c6aef5f5db06e374385d3e36c1c2cfb1e557dc9485991360cf8d3c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_angry.png"
+hash = "5c66bb1344889d4ee465d71d1844f7112388159f5da9144474ddbae56aee5ca2"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_angry_nectar.png"
+hash = "6c6ed801193198386bf23cc2c1691206538fb8c5ada2c02c3ae75c2fa5e6a942"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_nectar.png"
+hash = "29c92563dc9746083d819c972d87316f6a773d42d025a8081ab19d215d6148ba"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/ender.png"
+hash = "177b8ab9f5130235be55b0a479b271ff8992721c6df475bf219fd2171900fca8"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal.png"
+hash = "77933607983abefc56cd6ca17cfd1e5d0c6810d8b37d6bcbb60facbe133e64f7"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal_left.png"
+hash = "0f8b09f2d7062248f2f123cdd3d45f28f7f3b84c422c68ba8ece23f7567240fd"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal_right.png"
+hash = "16c6b8c006b7f6c4df5b35ddff58e4f830f43dc60ceab645c657709dc3e1fcbd"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped.png"
+hash = "586bd9f6af3238b419afa34c9cde5d262af8350f353cd798b6e921abb8ae156e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped_left.png"
+hash = "285a08ec16e956d25da60dceb33c741652f5087c7f588234d13f0603e41f0f4b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped_right.png"
+hash = "22843c5741ac96f086d53041923625c42183ae420a004bdde28779cf6e12004a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/acacia.png"
+hash = "a5c68171341b1c1ed6b780f02d633b5c92bfb21b051083c53be9cc059c1a2f15"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/bamboo.png"
+hash = "936ef8fecdb554fa33b0b73345fc1c79f7dd85e6384515492517528809687cd1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/birch.png"
+hash = "058b5d511cd8e297da505b0319b8eb2290b46d005af5b91f744cd0e4ebd62fdb"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/cherry.png"
+hash = "f157e924e349a8f7024cdcee68bb899a74cfd3bc619d35bdd2c85865b5cdc82b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/dark_oak.png"
+hash = "4ddd71655c79bb5889bdf52707d0cb348b335ea51153ee78450adadf239b5019"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/jungle.png"
+hash = "451044935bcd9eabc8793c5f0f95d0d2d57d387eaced1ef68a423212c58f3bd5"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/mangrove.png"
+hash = "799e53a69c23a6140c6a9f70c9ed0af0db05a16c70351e668533c8a8e4bf8324"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/oak.png"
+hash = "0b685af6f654bbbf9ff8b1d89cec6609cba26f472dd48d35cd058f2a6a0c334e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/spruce.png"
+hash = "822f687b2d43bc79a6dbb3fa1a1ad3d5bc4cb3a4ac4164b8f46cc5b4c9881aaa"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/enderman/enderman.png"
+hash = "c0576df643f3cdff7079dc3c7dac9f7995f137ee841e64b73b318ceb46ca0d67"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
+hash = "540460f69570972b5c8463f4bcf691459a057e3dd9ab15d256c70d997d922420"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker.png"
+hash = "90989aedfacd6781eb45d18f49cea3b743f12fc82156f0e5b2ecd72f0d95282c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_black.png"
+hash = "6abd5ae3561cdb66cdb4c588c9f12bb477bc29518d6b1917af452e302d4c1a89"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_blue.png"
+hash = "b411e9b77effbc1bfe2942606a67454af0f2ff5a979871569c2c4371c341848a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_brown.png"
+hash = "789119b958e1bc2edbb5a0549d2b2f7e1802d94739736a1505c033dbcc50e35a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_cyan.png"
+hash = "6645c808dd000620e58fe14ce50e53004b8e4447b08beba6ec5416a4ed7c4238"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_gray.png"
+hash = "81108dfcad5a43fd47e3d86c1c92b04ec174ad61ac9c19652cc1f18978ba00fa"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_green.png"
+hash = "fcfeeb895ff76354a2791cb3f17617eca6a9fe7febd600c4b707be499d2fdee6"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_light_blue.png"
+hash = "01d9209accc1d085c8b7415a41cccdffdab5148bcc909e1270e1d4f173ba90ef"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_light_gray.png"
+hash = "430660714b1e2ee859daa9cf2ff6f558ba872a74a1b59f2e4cbff3b27f404df3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_lime.png"
+hash = "b20b7ac4ed7d5205c89af7662193c53e2cc1486eb155ab9899173f01a3ee8f2b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_magenta.png"
+hash = "36af170a56712c25ff0d3e9aa55b8eff754252f89564fe8316a7d667e0d4c525"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_orange.png"
+hash = "5777cbb41f05f3d5df939265e3b624323cb6e120dabef12ad111ac1a4de15444"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_pink.png"
+hash = "2117a64914253a8487f8d2ff40da5ebbfa70c264e7fc78b4f17965b7fe00d343"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_purple.png"
+hash = "806eb5f62edbc08109e1cc74114697c7caac4998868a7f24308fd46b464ab777"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_red.png"
+hash = "405b86e45d7a5dc7615630b7e3e3581bdab840479ebb29cd12d330baa8d8bcec"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_white.png"
+hash = "307e1398fdcf317cda66926717e271ced565b8511eed3121ecee26eccbda38e2"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_yellow.png"
+hash = "18f5729434db8622853fac23b9156bf1d1d3f183ae7cda7cee3326f025a71aac"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "c044a4162c4bf61ba1be02cd1a4969a578233459e5352e1e178d740c95f13843"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d86eae18bdd322dba6dfd192dfe4a4b50a15fbb81b5b8aa973165e9f1f928319"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "07b79f1419153c00489bffa03d08f683f4cd72ac1c452a7cd8fab954eefe70e7"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "d4cb805f523d771f7830f8d032988266ff12c6cb6d7933a8a1ce695c34c0deb4"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "8a30abd2771c18047b433da196cdc609a5567428a25d763f3c38ecf07aff9e57"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "0ad4d9b547382b96db90244bb10a97814a4c85133c423c220592b59ae2ec5f8c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/edition.png"
+hash = "b6a5c8e82c4046fce8c6e30720e61fe73ae83a5adb53c46a4bb4e4bba8e794e6"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/acacia_chest_boat.png"
+hash = "286fee875612ae2cb2a6a7d84a8454f14578317bb39b2f34027fa3a009753be3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/bamboo_chest_raft.png"
+hash = "c7d0d4fc6fd30fcfe467a4cf6b1aede85967e1c868259ab5faa9134f36b312bc"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/birch_chest_boat.png"
+hash = "f31b44ef95baa0bbcb7da36609623e74ae9bda934746e65aad69a460ebabf825"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/cherry_chest_boat.png"
+hash = "c0e1198899ddc8f36e84f1cdf8f63fb74b13203ee393f64e74c0226280907c9d"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/chest_minecart.png"
+hash = "ef8a47e8cb955024bb83b2973d707011902e6169e60fda9674965aa0ad1c68de"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/cookie.png"
+hash = "c7d9c64ba24c436c8c48c6d74f9dc5ebd9a879251b4382d38270f16270356d05"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/dark_oak_chest_boat.png"
+hash = "3c031947d228cd4d1d6a9fccbed23cb572f04491e5fb957063adfe4baa9bc838"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/flower_pot.png"
+hash = "4bd955d0f3aa3dc3f7736489d135fbf7d396b2a104de5f507a85e3f8d162efe1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/jungle_chest_boat.png"
+hash = "9b5ba664b39afd40104a30eba28b8b86ffa982dbfa7d13639584ff62bec5b5f3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/mangrove_chest_boat.png"
+hash = "ccc35fc2c3a5892399815dd035c689c18bc82ba05904fe1a93ac74a98092a300"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/oak_chest_boat.png"
+hash = "1a965f31b2fa145f92208e61a6c8dd274348887b1373fb512c853bd93ad551a1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/spruce_chest_boat.png"
+hash = "e801e56a01355e3e1c2476842fe2a1e0a96bbb7ffb08900cb91e31fe3dde5175"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/graham.png"
+hash = "8778e2d99e197ac24ebf2c9874f274c89b6ceff739d9e491e982c10ffe15da83"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/skeleton.png"
+hash = "4459cb230841f34504ac13869be9c09118dc35bbb130c3b058fecc8dedb4a7f0"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/wither.png"
+hash = "b0f2d9dd701f9a79b2c098af10f4225d230c7fea7a19e028784b57fe0b4b303f"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/pack.mcmeta"
+hash = "9d780f09f952de2a574e4a933c8aa87ea155c3e6037f0f5096201d20504deb7b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/pack.png"
+hash = "4065c131a78e6b3400671d4b4d6d9d957bca4b78609373fdaee8449c159b5ea6"
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extended-illumina.pw.toml"
+hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixelated-sky-for-better-end.pw.toml"
+hash = "0716db05f06c89f47e9446c1b42a2c8d581cf640da5ecec0b76fb72b84c462b4"
 metafile = true
