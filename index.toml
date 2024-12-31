@@ -122,7 +122,7 @@ hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
 file = "defaultoptions/options.txt"
-hash = "86e7c09e84de9990edf1e09d47841b64e14e4f2afcebf739608beb19676931e3"
+hash = "77b6a4b564606dc1d2aa765eb2656958ce9fde572cda73355a7b9243301b63f5"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "d66090026df2375fd8e8a41bee852759735ca3e220baa20947fe52f53480ded4"
+hash = "3bfeffd46b1b369ad56f1de95371934b01adef0457a8b5a7e1afb8b80909eac3"
 metafile = true
 
 [[files]]
