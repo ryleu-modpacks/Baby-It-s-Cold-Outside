@@ -1,6 +1,6 @@
 name = "Extended illumina (3D lantern and torch)"
 filename = "§eExtended_Illumina_1.20x.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qznifDTe/versions/1oR1IOYj/%C2%A7eExtended_Illumina_1.20x.zip"

@@ -122,7 +122,7 @@ hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
 file = "defaultoptions/options.txt"
-hash = "10a073315e27ee16723c31e689974c35d868429c7920355c9903fd30fe3b1d5b"
+hash = "7bd7505f0085508335fcf801376f3767de351aae39bf01854ba8934edcb02f1a"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
@@ -390,11 +390,6 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "fa2ea1339602faa5ca5784fe2e1246e7605365c6748ef1012219614dfec27e6a"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "3bfeffd46b1b369ad56f1de95371934b01adef0457a8b5a7e1afb8b80909eac3"
 metafile = true
 
 [[files]]
@@ -1332,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/extended-illumina.pw.toml"
-hash = "4b9ad2dc1a7aa31067debf5b4bb8534e8ed2e38133b5bf989d5d164c38b17ca8"
+hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
 metafile = true
 
 [[files]]
