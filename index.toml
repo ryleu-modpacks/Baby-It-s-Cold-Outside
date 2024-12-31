@@ -122,7 +122,7 @@ hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
 
 [[files]]
 file = "defaultoptions/options.txt"
-hash = "77b6a4b564606dc1d2aa765eb2656958ce9fde572cda73355a7b9243301b63f5"
+hash = "5caf452c424b401503e2d47c1c9542046feae444557cd0f897e07e6bb5d7cce5"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
