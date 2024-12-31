@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","consistency_plus:vanilla_changes","fabric","programmer_art","file/§eExtended_Illumina_1.20x.zip","file/BiblicalTOU_v1_1.zip","file/Faithless [Create].zip","file/PixelatedSky_BetterEnd_1.0-1.20.1.zip","file/cubic-sun-moon-v1-8a.zip","file/crimtas_theme"]
-incompatibleResourcePacks:["consistency_plus:vanilla_changes","file/Faithless [Create].zip"]
+resourcePacks:["vanilla","programmer_art","mod_resources","Moonlight Mods Dynamic Assets","consistency_plus:vanilla_changes","fabric","file/Faithless [Create].zip","file/BiblicalTOU_v1_1.zip","file/PixelatedSky_BetterEnd_1.0-1.20.1.zip","file/cubic-sun-moon-v1-8a.zip","file/§eExtended_Illumina_1.20x.zip","file/crimtas_theme"]
+
 lastServer:
 lang:en_us
 soundDevice:""
