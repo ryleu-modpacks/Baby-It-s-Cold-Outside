@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ageingspawners-common.toml"
-hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
+hash = "71b4e2a24095928c170a79351d3c475de5b926e1989bcf0d682e1b6e86a1cbb4"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
+hash = "102d7f88c14e2a7d24fd2a9c58dc0c9656da253a196bdb4455bfa1b064010811"
 
 [[files]]
 file = "config/dynmus/generalConfig.json"
@@ -30,7 +30,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "7d1736ee96694fb2b3431068dd7ca0e568a28e14bb545ca23b35c05d8629c5aa"
+hash = "f129c6f5899407d33e87d5a4852f1d2674ad0e0191effdd1ae7261065dc2dec8"
 
 [[files]]
 file = "config/fog/config.json"
@@ -74,7 +74,7 @@ hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
+hash = "5eb3f3dc6b2ffdb448bd653ca0ad6d243bbb1336947e9825a06a84c73ce6bdbc"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -86,19 +86,19 @@ hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
+hash = "b20402e6d88c7071012c0af587fa97da16058240c9520198d2ed4cb2e9ce3351"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
-hash = "2d2d244c696678957a2077b87a80fcd0132e3e4e39c44313248748e0758702a3"
+hash = "e67138d1168068fa5a5ab66f90f9583b87dea826b7e6c0bb77730fe76b275c06"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "0dcc3203372924acccd054d999645a86f762cb2559366812c1e63121ac5a3ea8"
+hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
+hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
 
 [[files]]
 file = "config/staminafortweakers.json5"
@@ -106,23 +106,23 @@ hash = "42af1f9735cbea3b74ec09d1e71b33a95d0ea256043cecbc0e9ea3e80192653d"
 
 [[files]]
 file = "config/torch_hit-common.toml"
-hash = "03bfb8bbc155a7b36176d75a96451f8cdd7c1626cf660edfcd9762961c75f71b"
+hash = "b6a8ce13ca63b24e36f0104e90ac463daecb1b1c4021337b573416337a3ebdb6"
 
 [[files]]
 file = "config/toughasnails/client.toml"
-hash = "a64ae31d9094f721da8983d68b89ef46f0b69a863d45937d1c67a8490be9cf3a"
+hash = "e11aad08a080009722ddf4292147ae20fd165467c813c31c0748e6ad9a2c5642"
 
 [[files]]
 file = "config/toughasnails/temperature.toml"
-hash = "87a81721c7f07f2eed455d08d170557eb9bc8a8b40486f2d6939c09f6a8cb611"
+hash = "590829841ddc65b0221c46742a00be6fadf205aaedd83df90e8c31f99378c7ba"
 
 [[files]]
 file = "config/toughasnails/thirst.toml"
-hash = "c424fb1ef5bdd05607c0bf945f8623615fea75c18dda29a3e34ce5193ab0a607"
+hash = "1ccbc40dbd6d9578c1e4a73eedbfc4e19e31bb9bfc3e2660228546013273b67f"
 
 [[files]]
-file = "defaultoptions/options.txt"
-hash = "7bd7505f0085508335fcf801376f3767de351aae39bf01854ba8934edcb02f1a"
+file = "kubejs/config/defaultoptions.txt"
+hash = "83c5e5ca812b2715ee9f7bc4566564ca27f2670efc3473a5eaa3b1702628a1a3"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
@@ -138,7 +138,7 @@ hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
-hash = "db95361674c6f6befc84693d759874d850977c3d917569ebaeef685afc1ba016"
+hash = "5289b1644a66862eaf0a3e30816e27093e20d425172b8d1e307b03b2ea337883"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna_deploying.json"
