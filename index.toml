@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ca9a6c47a79171ab8adf428f55c54b25c28abf4c93b8cc2a7db69e1fe7e5226e"
+hash = "560c2f4d64b502787bd5c2ab9e9b41cef6a04bb487cec7a6d3c85bc550539aeb"
 metafile = true
 
 [[files]]
@@ -419,12 +419,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-music-updated.pw.toml"
-hash = "799465911227f7602091093b83bdbe10a24996a1b37f08fe2725e85ce3e39f35"
+hash = "db54700bda17a42611bbda0d0590a136a903c335310e0d211d4243fcbde05277"
 metafile = true
 
 [[files]]
 file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "9dbeb7f614af071689ff3a79d3a425103cc9acaa762b692db4e4128bbb839d17"
+hash = "7ed1400a20b6b815a79adb53d2ce333903764b8208cc69de7b72c2353502a761"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "d4b89ac6cccad720987f4b451e6d5f13ea1e26802ea4e063885a1afd8211a27d"
+hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "09de152bda51f6f2ca72eda368b6bffb7d4e8d731d3db7d5baecf676bbd6f786"
+hash = "3d971e048a17343d4e6b276fa4964de98ce8cd8b6ab8b512042c4c4ffd68bf71"
 metafile = true
 
 [[files]]
@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "198fcf693721326f338e2fa3505a93802b0a52edb6567e82b232bb3a93d5f6bc"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "fd3a8e033c19b8ce8c7213121433e3477f8af8e95e359a78105998b9ecda6fd7"
+hash = "22d87bf80a28cce7cbb0a92365d058ae2e77193528b53d318dcecac75d33c587"
 metafile = true
 
 [[files]]
