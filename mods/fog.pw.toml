@@ -1,13 +1,13 @@
-filename = 'Fog-forge-1.5.2-1.20.1.jar'
-name = 'Fog'
-side = 'client'
+name = "Fog"
+filename = "Fog-forge-1.5.3-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'd029e4ff3ee0014e551c5740dd6470cb1d93051bff6cfc8f0a94861d257faa5710c9c58b29d03fb19461c269208fd3dfcdff14fb8b87ba6856cf3c78592d7612'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/WuGVWUF2/versions/f2gpSewM/Fog-forge-1.5.2-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/5Lmz97Q7/Fog-forge-1.5.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "d1b11e2c9fc1b61ee74fe4f8d8b0d015125478c5c49936e9ee229fcc195274e16fca69a111c65b90dbd5b4147fe9dac7f1096dede69eef88b2268f051da679da"
 
+[update]
 [update.modrinth]
-mod-id = 'WuGVWUF2'
-version = 'f2gpSewM'
+mod-id = "WuGVWUF2"
+version = "5Lmz97Q7"

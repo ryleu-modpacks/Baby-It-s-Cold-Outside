@@ -1,13 +1,13 @@
-filename = 'StorageDrawers-1.20.1-12.9.12.jar'
-name = 'Storage Drawers'
-side = 'both'
+name = "Storage Drawers"
+filename = "StorageDrawers-1.20.1-12.9.13.jar"
+side = "both"
 
 [download]
-hash = '4f2ad254c6195c8d453b1504e1e6d177237d674b354487085b6665172d92b6ed3bcd59b36244eb9b79775b1bf7d7f704c75fdc656f00ab9ccc24fcb6ff5b45e6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/guitPqEi/versions/TpzaYf9T/StorageDrawers-1.20.1-12.9.12.jar'
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/LpbGS7UC/StorageDrawers-1.20.1-12.9.13.jar"
+hash-format = "sha512"
+hash = "c1b9268df95e95bf339d3d10c14016e6be841594f6e0d54d4c0e4ca948e1f5370f3cbf94efaf430b96202957c65d1c3f14848fae310c78f523d52006c7304f2a"
 
+[update]
 [update.modrinth]
-mod-id = 'guitPqEi'
-version = 'TpzaYf9T'
+mod-id = "guitPqEi"
+version = "LpbGS7UC"

@@ -1,13 +1,13 @@
-filename = 'Trials-2.3.2.jar'
-name = 'Trials Chambers [1.20.1 Backport]'
-side = 'both'
+name = "Trials Chambers [1.20.1 Backport]"
+filename = "Trials-2.3.3.jar"
+side = "both"
 
 [download]
-hash = '0e0c192a702a85cb501b4c3654c25a66fb9d0f4d246fb4fc2188deed988ed332284b900a587c9b2669a2f7b14fdfb4c425c34dbcfd7e337bc53b546e9933f081'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/s5Igmyc6/versions/BscGtoKc/Trials-2.3.2.jar'
+url = "https://cdn.modrinth.com/data/s5Igmyc6/versions/ydomBxLa/Trials-2.3.3.jar"
+hash-format = "sha512"
+hash = "5b87cebab24793cedadea822e603acc6452a586b62da627c686edfa74e340bf2bd64fac61664c4438cd1d1343999ce4469ebf5b6743348ff2540e3663702b0fa"
 
+[update]
 [update.modrinth]
-mod-id = 's5Igmyc6'
-version = 'BscGtoKc'
+mod-id = "s5Igmyc6"
+version = "ydomBxLa"
