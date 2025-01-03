@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gravestone:obituary"
+        }
+    ],
+    "result": {
+        "item": "minecraft:paper"
+    }
+}

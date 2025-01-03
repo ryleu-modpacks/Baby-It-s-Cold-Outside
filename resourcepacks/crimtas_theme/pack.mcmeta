@@ -1,0 +1,9 @@
+﻿{
+	"pack": {
+	"pack_format":15,
+	"description": "it crimtas!",
+	"supported_formats":{"min_inclusive":15,"max_inclusive":34}
+	},
+	"language": {}
+
+}

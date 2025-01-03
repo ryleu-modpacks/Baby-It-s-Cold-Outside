@@ -1,0 +1,13 @@
+name = "Createless"
+filename = "Faithless [Create].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRNhoHPE/versions/k80H3EzI/Faithless%20%5BCreate%5D.zip"
+hash-format = "sha512"
+hash = "d58b752e6844322d287f071b940b1af9474071c3b374439c74daa71aca9cd93ed709fe84a20934f36c4b2b189e5dfc2409d6262154df1281be846ca6e911fc06"
+
+[update]
+[update.modrinth]
+mod-id = "FRNhoHPE"
+version = "k80H3EzI"

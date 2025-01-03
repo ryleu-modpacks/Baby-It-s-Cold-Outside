@@ -1,0 +1,13 @@
+name = "Biblically Accurate Totem of Undying"
+filename = "BiblicalTOU_v1_1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DAxiTPdW/versions/zNwzA8xl/BiblicalTOU_v1_1.zip"
+hash-format = "sha512"
+hash = "daf9d15e48b902fb806abbb67b7bf403ef758a37107717334db4d3db854c8ac4f2927dee00305fc8ce993a88a0c1eb4aee1d2dce2529b9acc3d8297c9369eadf"
+
+[update]
+[update.modrinth]
+mod-id = "DAxiTPdW"
+version = "zNwzA8xl"
