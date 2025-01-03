@@ -1,6 +1,6 @@
 filename = 'dynmus-v2.3.2+1.20-forge.jar'
 name = 'Dynamic Music Updated'
-side = 'both'
+side = 'client'
 
 [download]
 hash = '11463d7dc7abab66a13eda2b9bdf4ea156eb508f'
