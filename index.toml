@@ -17,6 +17,14 @@ file = "config/dynmus/musicSelector.json"
 hash = "a03a8010044942d0d00018c1a739f05f6d78225b8a9997ca6010a087be917b7f"
 
 [[files]]
+file = "config/dynmus/generalConfig.json"
+hash = "b24b1a696055413e0c1093e85d78d6983a4a1e3ab169909328ba593815de2457"
+
+[[files]]
+file = "config/dynmus/musicSelector.json"
+hash = "a03a8010044942d0d00018c1a739f05f6d78225b8a9997ca6010a087be917b7f"
+
+[[files]]
 file = "config/enhancedai/Mobs/Break Anger/break_anger_config.json"
 hash = "1ef8dc64a4aead2829923f15a78907e94b33ffb70471416fac0b50c10b14165c"
 
@@ -97,6 +105,14 @@ file = "config/sereneseasons/seasons.toml"
 hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "e67138d1168068fa5a5ab66f90f9583b87dea826b7e6c0bb77730fe76b275c06"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
+
+[[files]]
 file = "config/soul_fire_d-common.toml"
 hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
 
@@ -105,26 +121,41 @@ file = "config/staminafortweakers.json5"
 hash = "42af1f9735cbea3b74ec09d1e71b33a95d0ea256043cecbc0e9ea3e80192653d"
 
 [[files]]
+file = "config/staminafortweakers.json5"
+hash = "42af1f9735cbea3b74ec09d1e71b33a95d0ea256043cecbc0e9ea3e80192653d"
+
+[[files]]
 file = "config/torch_hit-common.toml"
+hash = "b6a8ce13ca63b24e36f0104e90ac463daecb1b1c4021337b573416337a3ebdb6"
 hash = "b6a8ce13ca63b24e36f0104e90ac463daecb1b1c4021337b573416337a3ebdb6"
 
 [[files]]
+file = "config/toughasnails/client.toml"
+hash = "e11aad08a080009722ddf4292147ae20fd165467c813c31c0748e6ad9a2c5642"
 file = "config/toughasnails/client.toml"
 hash = "e11aad08a080009722ddf4292147ae20fd165467c813c31c0748e6ad9a2c5642"
 
 [[files]]
 file = "config/toughasnails/temperature.toml"
 hash = "590829841ddc65b0221c46742a00be6fadf205aaedd83df90e8c31f99378c7ba"
+file = "config/toughasnails/temperature.toml"
+hash = "590829841ddc65b0221c46742a00be6fadf205aaedd83df90e8c31f99378c7ba"
 
 [[files]]
+file = "config/toughasnails/thirst.toml"
+hash = "1ccbc40dbd6d9578c1e4a73eedbfc4e19e31bb9bfc3e2660228546013273b67f"
 file = "config/toughasnails/thirst.toml"
 hash = "1ccbc40dbd6d9578c1e4a73eedbfc4e19e31bb9bfc3e2660228546013273b67f"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "83c5e5ca812b2715ee9f7bc4566564ca27f2670efc3473a5eaa3b1702628a1a3"
+file = "kubejs/config/defaultoptions.txt"
+hash = "83c5e5ca812b2715ee9f7bc4566564ca27f2670efc3473a5eaa3b1702628a1a3"
 
 [[files]]
+file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
+hash = "5f18b6d91e0f4d202f5ff23431dcbe5bcdee2a4752771916dd2eaf912fd17ec7"
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
 hash = "5f18b6d91e0f4d202f5ff23431dcbe5bcdee2a4752771916dd2eaf912fd17ec7"
 
@@ -138,57 +169,81 @@ hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
+file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_deepslate_coal_ore.json"
+hash = "3dd797064fe59e2842871650caf702ccc44464d3f5ecc661e24bcd45807c4569"
+
+[[files]]
+file = "kubejs/data/graves/recipes/obituary.json"
+hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
+
+[[files]]
+file = "kubejs/data/radios/recipes/antenna.json"
 hash = "5289b1644a66862eaf0a3e30816e27093e20d425172b8d1e307b03b2ea337883"
 
 [[files]]
+file = "kubejs/data/radios/recipes/antenna_deploying.json"
 file = "kubejs/data/radios/recipes/antenna_deploying.json"
 hash = "78cfc526ec8ac94cd3d797fd8d1163d842b8318c69a85db4464a3f1d635d3dfb"
 
 [[files]]
 file = "kubejs/data/radios/recipes/listener_module.json"
+file = "kubejs/data/radios/recipes/listener_module.json"
 hash = "8dd80e6b9f0f5dd24acf4d6286513a816d6b8ea783144a6b2c66d6b37aca0014"
 
 [[files]]
+file = "kubejs/data/radios/recipes/microphone.json"
 file = "kubejs/data/radios/recipes/microphone.json"
 hash = "b04f543d598ca8ffff78b42f3fee26e8dab1f0ba88215b964ecc4c990593ebfe"
 
 [[files]]
 file = "kubejs/data/radios/recipes/radio.json"
+file = "kubejs/data/radios/recipes/radio.json"
 hash = "2b8928dc139a6da31cb1b2f247cae574e82c1bec08362fcc7efc4dd108b30cdc"
 
 [[files]]
+file = "kubejs/data/radios/recipes/radiosmither.json"
 file = "kubejs/data/radios/recipes/radiosmither.json"
 hash = "d26583a7b3a7601b4adf6dd703b4901a8694a00d0a98a412876830a97a2a5d35"
 
 [[files]]
 file = "kubejs/data/radios/recipes/receiving_module.json"
+file = "kubejs/data/radios/recipes/receiving_module.json"
 hash = "5a903e3eb9774736130d3b83b1c92ca2f2a30b073190233b3e6be53fb4721e3a"
 
 [[files]]
+file = "kubejs/data/radios/recipes/speaker.json"
 file = "kubejs/data/radios/recipes/speaker.json"
 hash = "69b3629fe84c87d0f8121812d4ea0c50f85d545ff7ba9be192db3e48375dd3ab"
 
 [[files]]
 file = "kubejs/data/radios/recipes/speaker_module.json"
+file = "kubejs/data/radios/recipes/speaker_module.json"
 hash = "96ce2c9ab6993f88ea78f8352c08e5a6486ee23733d36490ee3c0e4923a98113"
 
 [[files]]
+file = "kubejs/data/radios/recipes/spuddie_talkie.json"
 file = "kubejs/data/radios/recipes/spuddie_talkie.json"
 hash = "54e089fcdfdc248fb107e9b998a14c3f155fc0607143ec286f330772e6d4fc2f"
 
 [[files]]
 file = "kubejs/data/radios/recipes/transceiver.json"
+file = "kubejs/data/radios/recipes/transceiver.json"
 hash = "054a0dcdeaedf228f1c0d9fdf124614e472bef077ffe76dd420379d7fa06761d"
 
 [[files]]
+file = "kubejs/data/radios/recipes/transmitting_module.json"
 file = "kubejs/data/radios/recipes/transmitting_module.json"
 hash = "c24090e9a43f8c579f5a893730f8e97a8f375dc8be6004bd9fe37a3842eeb0af"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "1a7ef85206cad94d8234b8b6df8cc717d8fcb652fe0747d638f0218cd2d6f8bc"
+file = "kubejs/server_scripts/recipes.js"
+hash = "1a7ef85206cad94d8234b8b6df8cc717d8fcb652fe0747d638f0218cd2d6f8bc"
 
 [[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "cb164af6e76e2bfc2760203dbb5262f24160fa7262921711a42da8d9ab944829"
 file = "kubejs/server_scripts/tags.js"
 hash = "cb164af6e76e2bfc2760203dbb5262f24160fa7262921711a42da8d9ab944829"
 
@@ -229,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "4e858151b1e73ee8c4968404eca2ef01ce9c6118c7a984e5210b277a91cba5c9"
+hash = "bc4ca404be813160087eb9e8739c79e248a340f6c21e00fa3f2235790b6db01d"
 metafile = true
 
 [[files]]
@@ -239,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e59d895114ee9b466a48bb78990a9260d8e50617bd33b8c8f5f085c079311468"
+hash = "7b91491f4977bac34139188e8a6b3a51c6c752977424e7c4edbe643a19a1f942"
 metafile = true
 
 [[files]]
@@ -249,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome_particle_weather.pw.toml"
-hash = "6b425dab96068593f876377e439caf9c7f91e49336db0d3646b2da111331adba"
+hash = "fa9150be0578ac28251e9227bd27ff425e079dc821cb75a518885a6c18920e45"
 metafile = true
 
 [[files]]
@@ -324,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "e11242c365df9bcc196ac2ce5db8dd410743e8c8fcf89ad373566bd0c715443d"
+hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
 metafile = true
 
 [[files]]
@@ -409,12 +464,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8f9aecc95cf935182625f550256f315a14049217465280ccec780b514ac675ad"
+hash = "ca9a6c47a79171ab8adf428f55c54b25c28abf4c93b8cc2a7db69e1fe7e5226e"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "307f965d38f892a78da804a6d0d738ecb2c0af1cd5aeebb85a6b9223e23fb78e"
+hash = "b9499237f88f336c2f4e92d0a8b8fcf8ae3aab84e66dadec4141cd8ffa9a632e"
 metafile = true
 
 [[files]]
@@ -424,12 +479,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "7ed1400a20b6b815a79adb53d2ce333903764b8208cc69de7b72c2353502a761"
+hash = "9dbeb7f614af071689ff3a79d3a425103cc9acaa762b692db4e4128bbb839d17"
 metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "54a50f14381f0f4f0b0ce45a4dfa9640d8babc38246ebaf1a736aca07094ccf4"
+hash = "69681bbb2bb92304421e5d21e090d7861f193413042db66c2fc50de31a8d799a"
 metafile = true
 
 [[files]]
@@ -464,17 +519,17 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "fc1ee0732975e55fb423e03e39b0f318cdc3c6b30b84601ffe3a814b77743782"
+hash = "9923f9c68cbae712c678501548a760370c84509a4f34b4a3610dff1a5c14ce5d"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "c8ef5af849bca5e34c083a7b09736c352b1aabbb759e93b019cf1665abbfd9a0"
+hash = "d205605493bf83a641f3d865c650f0ee8962295ecc3fb674d3f294f8a05505e5"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9c82e994ac5cfe17d11c68e5023341511a958723dee6899ebd7f68eb925bc0fe"
+hash = "7605725435c7c99be90515c7e35cfe1f7fc87899b2728fa7350091984e97bee1"
 metafile = true
 
 [[files]]
@@ -484,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "331dd7a284188fad01eebc1d4a1f241f6a0ae7757b1fb3f378935f005b507578"
+hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
 
 [[files]]
@@ -494,12 +549,12 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "6da0563ff10a5f230c8a6f22fe303df06773d85b176afc12d9e0b60d60f97e6f"
+hash = "d4b89ac6cccad720987f4b451e6d5f13ea1e26802ea4e063885a1afd8211a27d"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "73731fbf0a731554608aaa9705f51036892f1fe92606a93594f689e7227a5056"
+hash = "55cfba35c153fb922dd2d52b24fa163b040dee11be2fdff6656093a919c69ca0"
 metafile = true
 
 [[files]]
@@ -524,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fc770f2859e3aea78f9f5daa2a5874c80a3d3117544d41fc98cad06a191a0246"
+hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
 metafile = true
 
 [[files]]
@@ -564,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/hibernal-herbs.pw.toml"
-hash = "e8a95206419b941ee1c1549bda1b1b857eb50d23d3fb0cad73fb87cf506f6e87"
+hash = "a89780b9510d7b967fc89bc0c90fa001b05a11601ccf784bfa29412c89236fab"
 metafile = true
 
 [[files]]
@@ -584,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "989b615dc1631688159e361079a58c06e4f9be5145da97dbd915206ce6952ef1"
+hash = "ac3381255e9e95a5d645d331a7ca0b37fcc97807a911f2c523a9f8c1f9fd58e5"
 metafile = true
 
 [[files]]
@@ -599,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "7b2615e51a4ba294049ef3a3c56df85611221bde95378fb3606eab5c00724e41"
+hash = "583dae3213782806729c66d26634a45ad765986c76c62ae22e8faaecd301ad9e"
 metafile = true
 
 [[files]]
@@ -624,12 +679,17 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "0a234fcfdc3ba6e8d7ccd1f1e0fa85c9137312c0307b0cd094c236a001d3fab4"
+hash = "d18b670d2dd2cbbcd4325312207040b8b068f84077e60b475ad1ecd05fcd4232"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f026d9e65006fe6b5997cf6d236797c9299b4f87276ea3b5bf71507c9c47921f"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "1676399bef87b7bc1bb1c8194e64a50a6dac0e1ee635b17e2d85b66e05d2c0b8"
 metafile = true
 
 [[files]]
@@ -683,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3b031e7136b50e4c1d320ce703ccb791b1259a2a27fa6773b93bb983344f32"
+hash = "c38e17c868e6b82672c5f16b16648651527cd3be1c4c14349dc6cee28d66cda6"
 metafile = true
 
 [[files]]
@@ -718,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d77575f25334f70a1864a1e50c15242fc2de4ecd98a5dc2cbc1e52d1dbca5342"
+hash = "09de152bda51f6f2ca72eda368b6bffb7d4e8d731d3db7d5baecf676bbd6f786"
 metafile = true
 
 [[files]]
@@ -733,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "b085541be584ad69dc83c7737a8d1226f77a4bc2c6f17c9c785986781ec11d2d"
+hash = "198fcf693721326f338e2fa3505a93802b0a52edb6567e82b232bb3a93d5f6bc"
 metafile = true
 
 [[files]]
@@ -758,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "cd72c729471b76a249a9ee615c6be93bac6de902cbb55673817c40ff0e500b09"
+hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
 metafile = true
 
 [[files]]
@@ -808,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7afa2bec430bb12f119970837e9e8f22dd2c18afbed91cf9042a8533c0a4b3f0"
+hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
 metafile = true
 
 [[files]]
@@ -858,12 +918,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b82a7af4ebe740be32b934368bbc0ddd74faf5c7cc118368c21d9d26e171edb3"
+hash = "e5bbeaccd8324f185150aa411c100b3d28ebbd3c29dbb4471d71a4ccc64f912c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bbe137a52615f0e208eeacbce394955a3eb35be5ee1e832b5232e23b407c5895"
+hash = "4ee5d6ea75b091bed79de81bf7534be593b9e8384593d5071676af2177ba5def"
 metafile = true
 
 [[files]]
@@ -873,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1b3d12a113396cf27fac3eaefadcf310646e28464fc79dd5f30f38cbe1bca336"
+hash = "fd3a8e033c19b8ce8c7213121433e3477f8af8e95e359a78105998b9ecda6fd7"
 metafile = true
 
 [[files]]
@@ -898,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "26b2eed3d45003d1f96f244efe6d488113ab7142fde0be3f706386d479535ff7"
+hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
@@ -943,17 +1003,17 @@ metafile = true
 
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
-hash = "bc1377b2f84b218f47b85d7ba26243888dc5cb3fe22b9b93bf62542e8566c61f"
+hash = "e8e2c72258f696c95099d8ecfe3cca73a96c0cbc12709c0b5877ad9d712eeae6"
 metafile = true
 
 [[files]]
 file = "mods/toughasnails-plus.pw.toml"
-hash = "d8e1d5dce90163173a96c7dea99ffb72438fcdd88905923d9609d6ff5f591ac4"
+hash = "310d983268602e7e51f57673821a4aa7947c2a9c5c9ef9f8963b1f8783ba52d7"
 metafile = true
 
 [[files]]
 file = "mods/trials-chambers-backport.pw.toml"
-hash = "b3c45af7d064943a45216a2b8f863a8f51d08758e13bcc373c689a0b8af8628d"
+hash = "fe6141476e2f7c8dedbba98bf74cb3ef012bfa0d43a0ebcbd63f3817353c251c"
 metafile = true
 
 [[files]]
@@ -998,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/whisperwoods.pw.toml"
-hash = "3d840a050d0fe3f7b2a226f252fd4d3c46aa9c6d05c7f1f3251ba782e953e14d"
+hash = "904a4913d0e1b1fd51e4d0d0092f80d68e83e6d4de7644e29e4462e05218d9fa"
 metafile = true
 
 [[files]]
@@ -1008,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1b152ae4cdc11c3aa845645e9679dfe5189fd2da3d81d340d79f79f050bb8f7a"
+hash = "87499102d601119a450d1766a8e3af72a8bc0cd8a8757b227a0a6aac5232151c"
 metafile = true
 
 [[files]]
@@ -1044,6 +1104,295 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "5a9daabfcc776968cb753abb4bf2310c64848e2a321b5d6f89483fac5bf0511d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/biblicaltou.pw.toml"
+hash = "201cc92f6a93cac958d1ff3897a58106b8dc0c33e2d5dcc2cfa5ecaa0eb3abd6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createless.pw.toml"
+hash = "2a6b19e9aa2c3ca7f68fb9bb2ef73b91e8ef423fa3a196ca22145cfebd31371d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/crimtas_theme/ATTRIBUTION.txt"
+hash = "9573d06af8866b31028b484fdf0d1e8bd0d9cc19a711414bb3962955d4167151"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/block/beacon_star.png"
+hash = "9d650c486498ea4ad98a5ee6e56c451d2fe799f241f8afb14e9001fcc9665489"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/beacon_beam.png"
+hash = "8f3a951dfd797aa2295993afe2d25c362ac885618e10e616ceabec6c9f88d21e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee.png"
+hash = "1b9e2bbfc2c6aef5f5db06e374385d3e36c1c2cfb1e557dc9485991360cf8d3c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_angry.png"
+hash = "5c66bb1344889d4ee465d71d1844f7112388159f5da9144474ddbae56aee5ca2"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_angry_nectar.png"
+hash = "6c6ed801193198386bf23cc2c1691206538fb8c5ada2c02c3ae75c2fa5e6a942"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/bee/bee_nectar.png"
+hash = "29c92563dc9746083d819c972d87316f6a773d42d025a8081ab19d215d6148ba"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/ender.png"
+hash = "177b8ab9f5130235be55b0a479b271ff8992721c6df475bf219fd2171900fca8"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal.png"
+hash = "77933607983abefc56cd6ca17cfd1e5d0c6810d8b37d6bcbb60facbe133e64f7"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal_left.png"
+hash = "0f8b09f2d7062248f2f123cdd3d45f28f7f3b84c422c68ba8ece23f7567240fd"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/normal_right.png"
+hash = "16c6b8c006b7f6c4df5b35ddff58e4f830f43dc60ceab645c657709dc3e1fcbd"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped.png"
+hash = "586bd9f6af3238b419afa34c9cde5d262af8350f353cd798b6e921abb8ae156e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped_left.png"
+hash = "285a08ec16e956d25da60dceb33c741652f5087c7f588234d13f0603e41f0f4b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest/trapped_right.png"
+hash = "22843c5741ac96f086d53041923625c42183ae420a004bdde28779cf6e12004a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/acacia.png"
+hash = "a5c68171341b1c1ed6b780f02d633b5c92bfb21b051083c53be9cc059c1a2f15"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/bamboo.png"
+hash = "936ef8fecdb554fa33b0b73345fc1c79f7dd85e6384515492517528809687cd1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/birch.png"
+hash = "058b5d511cd8e297da505b0319b8eb2290b46d005af5b91f744cd0e4ebd62fdb"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/cherry.png"
+hash = "f157e924e349a8f7024cdcee68bb899a74cfd3bc619d35bdd2c85865b5cdc82b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/dark_oak.png"
+hash = "4ddd71655c79bb5889bdf52707d0cb348b335ea51153ee78450adadf239b5019"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/jungle.png"
+hash = "451044935bcd9eabc8793c5f0f95d0d2d57d387eaced1ef68a423212c58f3bd5"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/mangrove.png"
+hash = "799e53a69c23a6140c6a9f70c9ed0af0db05a16c70351e668533c8a8e4bf8324"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/oak.png"
+hash = "0b685af6f654bbbf9ff8b1d89cec6609cba26f472dd48d35cd058f2a6a0c334e"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/chest_boat/spruce.png"
+hash = "822f687b2d43bc79a6dbb3fa1a1ad3d5bc4cb3a4ac4164b8f46cc5b4c9881aaa"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/enderman/enderman.png"
+hash = "c0576df643f3cdff7079dc3c7dac9f7995f137ee841e64b73b318ceb46ca0d67"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
+hash = "540460f69570972b5c8463f4bcf691459a057e3dd9ab15d256c70d997d922420"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker.png"
+hash = "90989aedfacd6781eb45d18f49cea3b743f12fc82156f0e5b2ecd72f0d95282c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_black.png"
+hash = "6abd5ae3561cdb66cdb4c588c9f12bb477bc29518d6b1917af452e302d4c1a89"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_blue.png"
+hash = "b411e9b77effbc1bfe2942606a67454af0f2ff5a979871569c2c4371c341848a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_brown.png"
+hash = "789119b958e1bc2edbb5a0549d2b2f7e1802d94739736a1505c033dbcc50e35a"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_cyan.png"
+hash = "6645c808dd000620e58fe14ce50e53004b8e4447b08beba6ec5416a4ed7c4238"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_gray.png"
+hash = "81108dfcad5a43fd47e3d86c1c92b04ec174ad61ac9c19652cc1f18978ba00fa"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_green.png"
+hash = "fcfeeb895ff76354a2791cb3f17617eca6a9fe7febd600c4b707be499d2fdee6"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_light_blue.png"
+hash = "01d9209accc1d085c8b7415a41cccdffdab5148bcc909e1270e1d4f173ba90ef"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_light_gray.png"
+hash = "430660714b1e2ee859daa9cf2ff6f558ba872a74a1b59f2e4cbff3b27f404df3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_lime.png"
+hash = "b20b7ac4ed7d5205c89af7662193c53e2cc1486eb155ab9899173f01a3ee8f2b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_magenta.png"
+hash = "36af170a56712c25ff0d3e9aa55b8eff754252f89564fe8316a7d667e0d4c525"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_orange.png"
+hash = "5777cbb41f05f3d5df939265e3b624323cb6e120dabef12ad111ac1a4de15444"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_pink.png"
+hash = "2117a64914253a8487f8d2ff40da5ebbfa70c264e7fc78b4f17965b7fe00d343"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_purple.png"
+hash = "806eb5f62edbc08109e1cc74114697c7caac4998868a7f24308fd46b464ab777"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_red.png"
+hash = "405b86e45d7a5dc7615630b7e3e3581bdab840479ebb29cd12d330baa8d8bcec"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_white.png"
+hash = "307e1398fdcf317cda66926717e271ced565b8511eed3121ecee26eccbda38e2"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/entity/shulker/shulker_yellow.png"
+hash = "18f5729434db8622853fac23b9156bf1d1d3f183ae7cda7cee3326f025a71aac"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "c044a4162c4bf61ba1be02cd1a4969a578233459e5352e1e178d740c95f13843"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d86eae18bdd322dba6dfd192dfe4a4b50a15fbb81b5b8aa973165e9f1f928319"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "07b79f1419153c00489bffa03d08f683f4cd72ac1c452a7cd8fab954eefe70e7"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "d4cb805f523d771f7830f8d032988266ff12c6cb6d7933a8a1ce695c34c0deb4"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "8a30abd2771c18047b433da196cdc609a5567428a25d763f3c38ecf07aff9e57"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "0ad4d9b547382b96db90244bb10a97814a4c85133c423c220592b59ae2ec5f8c"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/gui/title/edition.png"
+hash = "b6a5c8e82c4046fce8c6e30720e61fe73ae83a5adb53c46a4bb4e4bba8e794e6"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/acacia_chest_boat.png"
+hash = "286fee875612ae2cb2a6a7d84a8454f14578317bb39b2f34027fa3a009753be3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/bamboo_chest_raft.png"
+hash = "c7d0d4fc6fd30fcfe467a4cf6b1aede85967e1c868259ab5faa9134f36b312bc"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/birch_chest_boat.png"
+hash = "f31b44ef95baa0bbcb7da36609623e74ae9bda934746e65aad69a460ebabf825"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/cherry_chest_boat.png"
+hash = "c0e1198899ddc8f36e84f1cdf8f63fb74b13203ee393f64e74c0226280907c9d"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/chest_minecart.png"
+hash = "ef8a47e8cb955024bb83b2973d707011902e6169e60fda9674965aa0ad1c68de"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/cookie.png"
+hash = "c7d9c64ba24c436c8c48c6d74f9dc5ebd9a879251b4382d38270f16270356d05"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/dark_oak_chest_boat.png"
+hash = "3c031947d228cd4d1d6a9fccbed23cb572f04491e5fb957063adfe4baa9bc838"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/flower_pot.png"
+hash = "4bd955d0f3aa3dc3f7736489d135fbf7d396b2a104de5f507a85e3f8d162efe1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/jungle_chest_boat.png"
+hash = "9b5ba664b39afd40104a30eba28b8b86ffa982dbfa7d13639584ff62bec5b5f3"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/mangrove_chest_boat.png"
+hash = "ccc35fc2c3a5892399815dd035c689c18bc82ba05904fe1a93ac74a98092a300"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/oak_chest_boat.png"
+hash = "1a965f31b2fa145f92208e61a6c8dd274348887b1373fb512c853bd93ad551a1"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/item/spruce_chest_boat.png"
+hash = "e801e56a01355e3e1c2476842fe2a1e0a96bbb7ffb08900cb91e31fe3dde5175"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/graham.png"
+hash = "8778e2d99e197ac24ebf2c9874f274c89b6ceff739d9e491e982c10ffe15da83"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/skeleton.png"
+hash = "4459cb230841f34504ac13869be9c09118dc35bbb130c3b058fecc8dedb4a7f0"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/assets/minecraft/textures/painting/wither.png"
+hash = "b0f2d9dd701f9a79b2c098af10f4225d230c7fea7a19e028784b57fe0b4b303f"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/pack.mcmeta"
+hash = "9d780f09f952de2a574e4a933c8aa87ea155c3e6037f0f5096201d20504deb7b"
+
+[[files]]
+file = "resourcepacks/crimtas_theme/pack.png"
+hash = "4065c131a78e6b3400671d4b4d6d9d957bca4b78609373fdaee8449c159b5ea6"
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "dce009ef19ca0f1e0b0cae855cd5fccba613cd2073b40ec4e2d2e8234d8cd60f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extended-illumina.pw.toml"
+hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixelated-sky-for-better-end.pw.toml"
+hash = "c756af41f494baacb8114e0ed84089e30e6a17a258040031aa9d26559eec7332"
 metafile = true
 
 [[files]]
