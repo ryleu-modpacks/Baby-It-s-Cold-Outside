@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ca55b06de5b9e1981bfc3c3a6ce7fcce3e508957da027712e6dce17bb9f1b1e3"
+hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
@@ -560,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/herd-mentality.pw.toml"
 hash = "b5265e8b8c60f8fd16c56d806ac13901b6434d1e38364b1c69753e370f75ea67"
-metafile = true
-
-[[files]]
-file = "mods/hibernal-herbs.pw.toml"
-hash = "a89780b9510d7b967fc89bc0c90fa001b05a11601ccf784bfa29412c89236fab"
 metafile = true
 
 [[files]]
