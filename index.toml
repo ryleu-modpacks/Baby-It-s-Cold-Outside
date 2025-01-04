@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ageingspawners-common.toml"
-hash = "71b4e2a24095928c170a79351d3c475de5b926e1989bcf0d682e1b6e86a1cbb4"
+hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "102d7f88c14e2a7d24fd2a9c58dc0c9656da253a196bdb4455bfa1b064010811"
+hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
 
 [[files]]
 file = "config/dynmus/generalConfig.json"
@@ -30,7 +30,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "f129c6f5899407d33e87d5a4852f1d2674ad0e0191effdd1ae7261065dc2dec8"
+hash = "7d1736ee96694fb2b3431068dd7ca0e568a28e14bb545ca23b35c05d8629c5aa"
 
 [[files]]
 file = "config/fog/config.json"
@@ -74,7 +74,7 @@ hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5eb3f3dc6b2ffdb448bd653ca0ad6d243bbb1336947e9825a06a84c73ce6bdbc"
+hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -86,7 +86,7 @@ hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "b20402e6d88c7071012c0af587fa97da16058240c9520198d2ed4cb2e9ce3351"
+hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -98,11 +98,7 @@ hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
-
-[[files]]
-file = "config/staminafortweakers.json5"
-hash = "42af1f9735cbea3b74ec09d1e71b33a95d0ea256043cecbc0e9ea3e80192653d"
+hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
 
 [[files]]
 file = "config/torch_hit-common.toml"
@@ -884,11 +880,6 @@ metafile = true
 [[files]]
 file = "mods/stairs-but-chairs.pw.toml"
 hash = "54a37f4cf84d04b37fbfdb2d0f9c970eacb350bd4a40cb9463642e8bb1358334"
-metafile = true
-
-[[files]]
-file = "mods/stamina-for-tweakers.pw.toml"
-hash = "84255f0a2017545bfdc90fd5ed990ace86f01b9a5cc621e22a34e12074383e4b"
 metafile = true
 
 [[files]]
