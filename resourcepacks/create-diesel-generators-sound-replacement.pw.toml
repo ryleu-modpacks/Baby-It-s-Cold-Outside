@@ -1,0 +1,13 @@
+name = "Create: Diesel Generators Sound Replacement"
+filename = "Create DG Sound Replacement 1.0 [1.20-1.20.1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yT8LlWHu/versions/dEwmEnJ7/Create%20DG%20Sound%20Replacement%201.0%20%5B1.20-1.20.1%5D.zip"
+hash-format = "sha512"
+hash = "a17371d8e677022b11eb1675cdda681f9f5ca0eed4ed74990d25f953a5c059007527c51c198f0e6e6840268ff824084cb6c7fb310a1ee44c1007210584e1aa0e"
+
+[update]
+[update.modrinth]
+mod-id = "yT8LlWHu"
+version = "dEwmEnJ7"
