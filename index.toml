@@ -129,16 +129,16 @@ file = "kubejs/data/bico/recipes/distilling_water_slow.json"
 hash = "9c9ec878e1fed1e632fe5983f862600d72a50b24136f87aae04669d66b4b3fcf"
 
 [[files]]
-file = "kubejs/data/bico/recipes/obituary.json"
-hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
-
-[[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_coal_block.json"
 hash = "5f18b6d91e0f4d202f5ff23431dcbe5bcdee2a4752771916dd2eaf912fd17ec7"
 
 [[files]]
 file = "kubejs/data/create_dd/recipes/seething/diamond_shard_from_deepslate_coal_ore.json"
 hash = "3dd797064fe59e2842871650caf702ccc44464d3f5ecc661e24bcd45807c4569"
+
+[[files]]
+file = "kubejs/data/graves/recipes/obituary.json"
+hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
