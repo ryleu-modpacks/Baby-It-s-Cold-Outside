@@ -1,0 +1,20 @@
+{
+    "type": "createdieselgenerators:distillation",
+    "ingredients": [
+        {
+            "fluidTag": "minecraft:water",
+            "amount": 20
+        }
+    ],
+    "processingTime": 20,
+    "results": [
+        {
+            "fluid": "tan_plus:dirty_water",
+            "amount": 5
+        },
+        {
+            "fluid": "tan_plus:purified_water",
+            "amount": 15
+        }
+    ]
+}
