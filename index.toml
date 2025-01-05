@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ageingspawners-common.toml"
-hash = "71b4e2a24095928c170a79351d3c475de5b926e1989bcf0d682e1b6e86a1cbb4"
+hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "102d7f88c14e2a7d24fd2a9c58dc0c9656da253a196bdb4455bfa1b064010811"
+hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
 
 [[files]]
 file = "config/dynmus/generalConfig.json"
@@ -30,7 +30,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "f129c6f5899407d33e87d5a4852f1d2674ad0e0191effdd1ae7261065dc2dec8"
+hash = "80278a1ff942069507c7af5591611608ccfd2ea7ba244d985afe08beae78bce9"
 
 [[files]]
 file = "config/fog/config.json"
@@ -50,7 +50,7 @@ hash = "835b2ec9d7b080081c6961fc950e53daf2700ec2a792eade349854d64bea45c0"
 
 [[files]]
 file = "config/fromanotherworld/events.json"
-hash = "5d680ed125f3859bd936a1e06603bad05214166c7128a4f5c1d70bdec086238e"
+hash = "8716b47291022c72230ea418e8a66a28d7c51c076b13d36d5821c2872974a808"
 
 [[files]]
 file = "config/fromanotherworld/gore.json"
@@ -62,7 +62,7 @@ hash = "4c8abb10091fe8144db956354569c86e059a90fe7021e6b2ade40119faac1707"
 
 [[files]]
 file = "config/fromanotherworld/spawning.json"
-hash = "1d176bbb0924a08995e136cec7b1ce8a28c84c68ea43c797e706487b63f1989d"
+hash = "901c7c722c7f85274bf8dc2a26984b9a3d94406bd3282c8ea4671cddf45285d0"
 
 [[files]]
 file = "config/fromanotherworld/world.json"
@@ -74,7 +74,7 @@ hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5eb3f3dc6b2ffdb448bd653ca0ad6d243bbb1336947e9825a06a84c73ce6bdbc"
+hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -86,7 +86,7 @@ hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "b20402e6d88c7071012c0af587fa97da16058240c9520198d2ed4cb2e9ce3351"
+hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -98,7 +98,7 @@ hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
+hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
 
 [[files]]
 file = "config/torch_hit-common.toml"
@@ -528,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "29cfde064f31104f48625b82bb4dc7e9b8980be87e242f7b6232e893124c3f9c"
-metafile = true
-
-[[files]]
-file = "mods/from-another-world.pw.toml"
-hash = "7a62943e071ca4aa4e38ce0a9c67b70a2f93f8f84a6564c0de58ca30718e6bc1"
 metafile = true
 
 [[files]]

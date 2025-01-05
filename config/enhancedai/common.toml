@@ -234,7 +234,7 @@
 			#Range: 1.0 ~ 64.0
 			Minimum = 16.0
 			#Range: 1.0 ~ 64.0
-			Maximum = 32.0
+			Maximum = 16.0
 
 		#The ticks cooldown after shooting. This is reduced by 33% in Hard difficulty
 		[Skeletons."Skeleton Shoot"."Shooting Cooldown"]
