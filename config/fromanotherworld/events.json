@@ -15,14 +15,14 @@
   "first_event_day": {
     "description1": "The first day that an invasion event will happen.",
     "description2": "This option treats the first day in a world as day 1, unlike the vanilla F3 screen.",
-    "value": 32
+    "value": 128
   },
   "min_cooldown": {
     "description": "The minimum number of days between events.",
-    "value": 32
+    "value": 64
   },
   "max_cooldown": {
     "description": "The maximum number of days between events.",
-    "value": 64
+    "value": 96
   }
 }

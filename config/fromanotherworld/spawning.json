@@ -16,7 +16,7 @@
   "first_spawning_day": {
     "description1": "The first day that Things can start spawning naturally.",
     "description2": "This option treats the first day in a world as day 1, unlike the vanilla F3 screen.",
-    "value": 16
+    "value": 96
   },
   "failure_chance": {
     "description1": "The chance for a Thing to fail to spawn even when all the criteria are met.",

@@ -234,7 +234,7 @@
 			#Range: 1.0 ~ 64.0
 			Minimum = 16.0
 			#Range: 1.0 ~ 64.0
-			Maximum = 32.0
+			Maximum = 16.0
 
 		#The ticks cooldown after shooting. This is reduced by 33% in Hard difficulty
 		[Skeletons."Skeleton Shoot"."Shooting Cooldown"]
@@ -549,29 +549,29 @@
 		#How far away can the mobs see the player. This overrides the vanilla value (16 for most mobs). Setting 'Max' to 0 will leave the follow range as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
 		[Mobs.Targeting."Follow Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 24.0
+			Minimum = 8.0
 			#Range: 0.0 ~ 128.0
-			Maximum = 48.0
+			Maximum = 16.0
 
 		#How far away can the mobs see the player even through walls. Setting 'Max' to 0 will make mobs not able to see through walls. I recommend using mods like Mobs Properties Randomness to have more control over the attribute; the attribute name is 'enhancedai:generic.xray_follow_range'.
 		[Mobs.Targeting."XRay Range Override"]
 			#Range: 0.0 ~ 128.0
-			Minimum = 12.0
+			Minimum = 0
 			#Range: 0.0 ~ 128.0
-			Maximum = 24.0
+			Maximum = 0
 
 		[Mobs.Targeting."Hurt by target"]
 			#Mobs will no longer switch target if it's the same or if the current one it's closer.
 			"Better version" = true
 			#Mobs will no longer attack each other.
-			"Prevent infighting" = true
+			"Prevent infighting" = false
 
 		#Chances for a mob to spawn neutral
 		[Mobs.Targeting."Neutral Chances"]
 			#Range: 0.0 ~ 1.0
 			"Easy/Peaceful" = 0.25
 			#Range: 0.0 ~ 1.0
-			Normal = 0.1
+			Normal = 0.15
 			#Range: 0.0 ~ 1.0
 			Hard = 0.04
 
@@ -877,5 +877,5 @@
 	[Animals."Animals Group Flee"]
 		#Range at which an animal alerts other animals.
 		#Range: > 1
-		"Flee Range" = 24
+		"Flee Range" = 16
 
