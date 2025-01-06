@@ -800,6 +800,11 @@ hash = "8c170799b44cfb785b248d89c63d21a6c1e318bec6e652b2e2f265729c88ce9b"
 metafile = true
 
 [[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "3ea2e0d5147cb076f5658b055f87c6ab11ecea359cffcfee348500f5403c43ae"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "cb203edb3c612ba8e427d6ed719c17ad2b2f87a4871d9ab61d7dd06c0196fbc2"
 metafile = true
