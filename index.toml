@@ -82,7 +82,7 @@ hash = "ceabe040567af975d19a8e9e656ca92bbd5e878c95e03965236635f466499483"
 
 [[files]]
 file = "config/naturallychargedcreepers.json5"
-hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
+hash = "8bdc41660673009415db66f2f1463e9de97f5844966ff6da311bd15210205b2f"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
@@ -139,6 +139,34 @@ hash = "3dd797064fe59e2842871650caf702ccc44464d3f5ecc661e24bcd45807c4569"
 [[files]]
 file = "kubejs/data/graves/recipes/obituary.json"
 hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_axe_left.json"
+hash = "e3bbca1ed5dc31a016583ba147667767bf8192a538d813168e64c07e7ba90193"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_axe_right.json"
+hash = "b22f1f0a4661f37ed9d9dcb67f3652820524c93ab4fe398470e811ae8971d0f7"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_hoe_left.json"
+hash = "a8da8aea4d010456df5734697a591456bf83f83d7c14b53979ce9df91ee08ec9"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_hoe_right.json"
+hash = "0b076c9b7f45896b1c43fdfdab19de1a1e0d12ee95767d4ccb309df0a303b171"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_pickaxe.json"
+hash = "23a0bff4bd29b40f1acf0a993f774852df43e60697c653f6c68406eac4bb7c46"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_shovel.json"
+hash = "95c27e7bd34bda0f34a92edff507f4387e13426d17d8c3d5536818ef30d6cc20"
+
+[[files]]
+file = "kubejs/data/iron_tools/iron_sword.json"
+hash = "763253bd99c87cbb1518617599db71fd965e5cb2edb0291e98bc058b1096ba47"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
@@ -253,11 +281,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "30dc3bb155174e408366f770235018a7b58c6b941098eff0914f925a1459098b"
-metafile = true
-
-[[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "fa9150be0578ac28251e9227bd27ff425e079dc821cb75a518885a6c18920e45"
 metafile = true
 
 [[files]]
