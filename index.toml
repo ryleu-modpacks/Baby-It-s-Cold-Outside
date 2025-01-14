@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ageingspawners-common.toml"
-hash = "d20fa57b5e6f2fcfc267982134914add9b0f82bee1a7a0fd101b3a76c6f8d582"
+hash = "71b4e2a24095928c170a79351d3c475de5b926e1989bcf0d682e1b6e86a1cbb4"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "53bd5628e120c887b4ee7812287a722f62ae8c8c40d524d56ba22468f16042bd"
+hash = "102d7f88c14e2a7d24fd2a9c58dc0c9656da253a196bdb4455bfa1b064010811"
 
 [[files]]
 file = "config/dynmus/generalConfig.json"
@@ -30,7 +30,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "d0e33d876f5224db8f1232e688f0f2b94d3620d5197a8546596213448d0e8d53"
+hash = "39610c046687da643e1de0358490af6480dfbf2745a17bf0114cf4a9127cb50a"
 
 [[files]]
 file = "config/fog/config.json"
@@ -74,7 +74,7 @@ hash = "a0c6f80aef7ea9c24b5359f56e244a131f9b7c3b7723c0418af9930197c2ec5e"
 
 [[files]]
 file = "config/goldenagecombat-server.toml"
-hash = "5dadd0b93d1def268d785b95393960f2abed86569c1c58c4cff109a520af2555"
+hash = "5eb3f3dc6b2ffdb448bd653ca0ad6d243bbb1336947e9825a06a84c73ce6bdbc"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -86,7 +86,7 @@ hash = "40bddc8ac7aad05b735aae893527a0bc3faa9196ca8e82cbd881dde899df738e"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "e1185c4ba296f2ec22942d89a11ba9d81ffdf8a1ff7e963958ec2608434329fb"
+hash = "b20402e6d88c7071012c0af587fa97da16058240c9520198d2ed4cb2e9ce3351"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -98,7 +98,7 @@ hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "40093b6dad7436bb2552571d560f4b6a49a50b06bdef30302a50d40582f97908"
+hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
 
 [[files]]
 file = "config/torch_hit-common.toml"
