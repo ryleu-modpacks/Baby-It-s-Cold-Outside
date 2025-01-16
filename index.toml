@@ -142,19 +142,19 @@ hash = "79e4897a8d015feb5eedc36b76bcb3833a044197daeec7ce25ad429cb57f3a98"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_axe_left.json"
-hash = "e3bbca1ed5dc31a016583ba147667767bf8192a538d813168e64c07e7ba90193"
+hash = "51c3685ab10ee99febf0771505e2a28f6005a82640146b57392c7eca2c2be1af"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_axe_right.json"
-hash = "b22f1f0a4661f37ed9d9dcb67f3652820524c93ab4fe398470e811ae8971d0f7"
+hash = "0e5c5e4ee4c4d7b155f6d0aa200acdd4f5712aeb118a7ec82cde4cc8a4b5d89e"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_hoe_left.json"
-hash = "a8da8aea4d010456df5734697a591456bf83f83d7c14b53979ce9df91ee08ec9"
+hash = "95fd8c4e5d3736602679ee8e81e1cae1880859497ad8bc02603499587f1f67f5"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_hoe_right.json"
-hash = "0b076c9b7f45896b1c43fdfdab19de1a1e0d12ee95767d4ccb309df0a303b171"
+hash = "5ccdf5412e67052cbc547eaf4cff748094f9384462f0eaba2cdd3c1e031ade70"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_pickaxe.json"
@@ -162,11 +162,15 @@ hash = "23a0bff4bd29b40f1acf0a993f774852df43e60697c653f6c68406eac4bb7c46"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_shovel.json"
-hash = "95c27e7bd34bda0f34a92edff507f4387e13426d17d8c3d5536818ef30d6cc20"
+hash = "45e42e584be0d643055b30a200eb5f5c433d0f735108bd76495dac2165517992"
 
 [[files]]
 file = "kubejs/data/iron_tools/iron_sword.json"
-hash = "763253bd99c87cbb1518617599db71fd965e5cb2edb0291e98bc058b1096ba47"
+hash = "bf1cc44d08f7e2803d1b2d8fb25d92cb3a427a732e5b44f24805aa377879f291"
+
+[[files]]
+file = "kubejs/data/iron_tools/jukebox.json"
+hash = "b6590fe666dfa3c62665db0a3fe28689df8ba845045c3f80c8621a8f5696fad8"
 
 [[files]]
 file = "kubejs/data/radios/recipes/antenna.json"
