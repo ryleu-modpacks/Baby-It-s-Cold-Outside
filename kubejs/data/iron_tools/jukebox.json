@@ -1,16 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "II",
-        "S ",
-        "S "
+        "SNS",
+        "NIN",
+        "SNS"
     ],
     "key": {
-        "I": {
-            "item": "minecraft:iron_ingot"
+        "N": {
+            "item": "minecraft:note_block"
         },
         "S": {
             "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
         }
     },
     "result": {
