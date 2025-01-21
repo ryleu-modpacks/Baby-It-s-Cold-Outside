@@ -97,6 +97,10 @@ file = "config/sereneseasons/seasons.toml"
 hash = "760d3e743f0a71dcd931f281ca34ec4adcc608070249f4a6f60560826cf05bbf"
 
 [[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "02b9cf17b5f6a1cc84047249ee932971a961993a16a2b9e09e0acbcdeaba72e6"
+
+[[files]]
 file = "config/soul_fire_d-common.toml"
 hash = "2bb12109c2c93fa206033420441c5c97fa234ec39a22403f41cb897411a3600e"
 
@@ -226,7 +230,7 @@ hash = "25eeb79317ba1a6404e8e19b37935599a6706b2747edd9b593de282428e0920f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "041aa367a20949b6b2aa9bb63c8ccecc44bac703a33eb723b07fbbef2019e330"
+hash = "3c23c5f419c3221a35d7007a93966b540ac8f0926128fab515bd4f100db0e949"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
